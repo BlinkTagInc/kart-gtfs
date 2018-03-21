@@ -7,7 +7,6 @@ timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,
 6,10081,,20170701,20190101,1,1,1,1,1,0,0,Blue Line,Year Round (Monday-Friday),Loop,horizontal,6,1,1
 7,10079,,20170701,20190101,0,0,0,0,0,1,0,Brown Line,Year Round (Saturday only),Loop,horizontal,4,2,0
 8,10079,,20170701,20190101,1,1,1,1,1,0,0,Brown Line,Year Round (Monday-Friday),Loop,horizontal,4,1,1
-9,10086,,20170701,20190101,1,1,1,1,1,0,0,Corcoran,Year Round (Monday-Friday),Loop,horizontal,13,1,0
 10,10072,0,20170701,20190101,1,1,1,1,1,0,0,Fresno,Year Round (Monday-Friday),Northbound,horizontal,17,1,0
 11,10072,1,20170701,20190101,1,1,1,1,1,0,0,Fresno,Year Round (Monday-Friday),Southbound,horizontal,17,2,0
 12,10083,,20170701,20190101,1,1,1,1,1,0,0,Gray Line,Year Round (Monday-Friday),Loop,horizontal,8,1,0

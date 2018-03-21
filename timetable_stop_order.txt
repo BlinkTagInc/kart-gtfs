@@ -233,14 +233,6 @@ timetable_id,stop_id,stop_sequence,stop_name,connected_routes
 8,2435844,22,6th & Irwin,4/Brown Line
 8,2439178,23,6th & Redington,4/Brown Line
 8,2436128,24,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
-9,2435880,1,KART Transit Center,"13/Corcoran, 14/Laton, 17/Fresno"
-9,2435959,2,Hanford Armona @ Kings Rehab,"13/Corcoran, 4/Brown Line"
-9,2436024,3,Amtrak,13/Corcoran
-9,2436029,4,Substance Abuse Prison Administration Lot,13/Corcoran
-9,2436028,5,Substance Abuse Prison Tower 5 Lot,13/Corcoran
-9,2436030,6,State Prison Administration Lot,13/Corcoran
-9,2436025,7,Amtrak,13/Corcoran
-9,2435880,8,KART Transit Center,"13/Corcoran, 14/Laton, 17/Fresno"
 10,2435880,1,KART Transit Center,"13/Corcoran, 14/Laton, 17/Fresno"
 10,2436003,2,De Woody @ Post Office,"14/Laton, 17/Fresno"
 10,2436017,3,Selma Kaiser Hospital,17/Fresno
