@@ -1,1 +1,5 @@
 fare_id,route_id,origin_id,destination_id,contains_id
+2363,,1422,1422,
+2364,,1421,1421,
+2364,,1421,1422,
+2364,,1422,1421,

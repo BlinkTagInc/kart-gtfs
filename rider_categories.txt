@@ -1,1 +1,5 @@
 rider_category_id,rider_category_description
+2,Senior
+6,Disabled
+11,Military
+15,Medicare card holder

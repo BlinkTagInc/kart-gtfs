@@ -1,1 +1,3 @@
 zone_id,zone_name
+1421,Out of Town
+1422,In Town

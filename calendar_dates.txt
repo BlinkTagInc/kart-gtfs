@@ -11,4 +11,3 @@ c_6283_b_6769_d_31,20181122,Thanksgiving Day,2
 c_6283_b_6769_d_31,20180903,Labor Day,2
 c_6283_b_6769_d_31,20180704,Independence Day,2
 c_6283_b_6769_d_31,20180528,Memorial Day,2
-c_6283_b_6769_d_31,20180219,Presidents Day,2
