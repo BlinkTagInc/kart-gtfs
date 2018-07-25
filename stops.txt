@@ -1,186 +1,10 @@
 stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding
-2435860,1138,,D across Chevron,,36.302554,-119.779689,1422,,0,,America/Los_Angeles,,,0
-2435854,4056,,Lacey & Sierra,,36.328079,-119.61085,1422,,0,,America/Los_Angeles,,,0
-2436006,1085,,Dennis & Mt Whitney,,36.431397,-119.693594,1421,,0,,America/Los_Angeles,,,0
-2436120,1007,,Centennial @ Walmart,,36.322797,-119.675269,1422,,0,,America/Los_Angeles,,,0
-2435889,4037,,7th @ Medical Centers,,36.325278,-119.657726,1422,,0,,America/Los_Angeles,,,0
-2436024,4001,,Amtrak,,36.09829,-119.557587,1422,,0,,America/Los_Angeles,,,0
-2435891,4035,,Carolyn & El Toro,,36.325574,-119.613639,1422,,0,,America/Los_Angeles,,,0
-2435962,2081,,Garden & Shaw,,36.302678,-119.630196,1422,,0,,America/Los_Angeles,,,0
-2436082,2129,,Hanford Armona & 15th,,36.313446,-119.726402,1422,,0,,America/Los_Angeles,,,0
-2436127,1048,,Skyline & Union,,36.006729,-120.123837,1421,,0,,America/Los_Angeles,,,0
-2435910,1015,,Hanford Armona @ Park Place Apartments,,36.313567,-119.774752,1422,,0,,America/Los_Angeles,,,0
-2435936,2125,,Hanford Armona across Park Place Apartments,,36.313378,-119.77495,1422,,0,,America/Los_Angeles,,,0
-2435985,2029,,10th & Leland,,36.350301,-119.636904,1422,,0,,America/Los_Angeles,,,0
-2436106,1025,,Bush & Belle Haven,,36.296144,-119.812224,1422,,0,,America/Los_Angeles,,,0
-2435937,2124,,Hanford Armona @ Country Club Apartments,,36.31337,-119.778202,1422,,0,,America/Los_Angeles,,,0
-2435865,1133,,Bush @ Lemoore Elementary School,,36.298197,-119.787036,1422,,0,,America/Los_Angeles,,,0
-2435883,4043,,Greenfield @ Youth Athletic Complex,,36.335861,-119.664255,1422,,0,,America/Los_Angeles,,,0
-2435862,1136,,Bush & D,,36.299522,-119.769496,1422,,0,,America/Los_Angeles,,,0
-2436101,1033,,Main @ Grain Mill,,36.189488,-119.825729,1421,,0,,America/Los_Angeles,,,0
-2435953,2099,,Naval Air Station Exit,,36.25574,-119.902288,1422,,0,,America/Los_Angeles,,,0
-2435940,2121,,Liberty & Cinnamon,,36.306264,-119.794185,1422,,0,,America/Los_Angeles,,,0
-2436131,2008,,Douty @ High School,,36.344129,-119.645914,1422,,0,,America/Los_Angeles,,,0
-2436080,2028,,10th & Grangeville,,36.3432,-119.636844,1422,,0,,America/Los_Angeles,,,0
-2435915,2166,,Hanford Armona @ Railroad,,36.313342,-119.650859,1422,,0,,America/Los_Angeles,,,0
-2435987,2022,,7th & Brown,,36.327078,-119.64218,1422,,0,,America/Los_Angeles,,,0
-2435902,4021,,Noble & Akers,,36.326731,-119.347608,1421,,0,,America/Los_Angeles,,,0
-2436050,2027,,10th & Malone,,36.339222,-119.636836,1422,,0,,America/Los_Angeles,,,0
-2435992,2015,,11th & Cortner,,36.351433,-119.655172,1422,,0,,America/Los_Angeles,,,0
-2435873,1120,,Hazelwood & Beverly,,36.316113,-119.777723,1422,,0,,America/Los_Angeles,,,0
-2436013,2101,,Navy Exchange Center,,36.26035,-119.911178,1422,,0,,America/Los_Angeles,,,0
-2436034,2138,,Lacey & Greenfield,,36.327941,-119.6584,1422,,0,,America/Los_Angeles,,,0
-2436121,1006,,Lacey @ Heritage Park Senior Center,,36.328177,-119.678532,1422,,0,,America/Los_Angeles,,,0
-2436037,2160,,Grangeville & 11th,,36.342752,-119.656533,1422,,0,,America/Los_Angeles,,,0
-2436115,1014,,Hanford Armona & Belinda,,36.313579,-119.770747,1422,,0,,America/Los_Angeles,,,0
-2435934,2127,,Hanford Armona @ Westberry Apartments,,36.313359,-119.765368,1422,,0,,America/Los_Angeles,,,0
-2436112,1018,,18th & D,,36.302035,-119.780902,1422,,0,,America/Los_Angeles,,,0
-2435870,1123,,Hanford Armona @ Lemoore Mobile Park,,36.313484,-119.797253,1422,,0,,America/Los_Angeles,,,0
-2436118,1009,,14th @ Armona Senior Center,,36.314244,-119.708926,1422,,0,,America/Los_Angeles,,,0
-2436109,1021,,Bush & Olive,,36.298364,-119.791068,1422,,0,,America/Los_Angeles,,,0
-2436067,2009,,Douty & Leland,,36.349669,-119.645943,1422,,0,,America/Los_Angeles,,,0
-2435886,4040,,Lacey @ Four Seasons Mobile Park,,36.328139,-119.687701,1422,,0,,America/Los_Angeles,,,0
-2436005,1087,,Murphy & Fatima,,36.434605,-119.691519,1421,,0,,America/Los_Angeles,,,0
-2436093,1043,,San Joaquin & 5th,,36.007207,-120.131158,1421,,0,,America/Los_Angeles,,,0
-2435892,4034,,Carolyn & Lacey ,,36.327324,-119.612732,1422,,0,,America/Los_Angeles,,,0
-2435875,1117,,Antelope & Burlwood,,36.31579,-119.784941,1422,,0,,America/Los_Angeles,,,0
-2435907,2162,,Grangeville & University,,36.342724,-119.665928,1422,,0,,America/Los_Angeles,,,0
-2435975,2059,,9 1/4 @ King Garden Apartments,,36.338668,-119.62357,1422,,0,,America/Los_Angeles,,,0
-2436075,2139,,11th & Washington,,36.315796,-119.655146,1422,,0,,America/Los_Angeles,,,0
-2435960,2083,,Garden & 10th,,36.302418,-119.63631,1422,,0,,America/Los_Angeles,,,0
-2435997,2001,,Community Regional Center,,36.741574,-119.784559,1421,,0,,America/Los_Angeles,,,0
-2436063,2018,,11th @ KCAO,,36.336501,-119.655255,1422,,0,,America/Los_Angeles,,,0
-2436004,1088,,Murphy & Gonser,,36.434602,-119.688635,1421,,0,,America/Los_Angeles,,,0
-2435885,4041,,COS & Sierra Pacific High School,,36.333358,-119.690853,1422,,0,,America/Los_Angeles,,,0
-2436020,1082,,Johnson & 1st,,36.402142,-119.718831,1421,,0,,America/Los_Angeles,,,0
-2436062,2049,,11th @ Railroad Tracks,,36.331179,-119.655017,1422,,0,,America/Los_Angeles,,,0
-2435897,1212,,Hanford Armona @ Kings Terrace Apartments,,36.313353,-119.6389,1422,,0,,America/Los_Angeles,,,0
-2436113,1017,,18th @ Pizza Hut,,36.31208,-119.780924,1422,,0,,America/Los_Angeles,,,0
-2435923,2150,,Jones & Hanford Armona,,36.312938,-119.652798,1422,,0,,America/Los_Angeles,,,0
-2436025,1072,,Amtrak,,36.09923,-119.557646,1421,,0,,America/Los_Angeles,,,0
-2435890,4036,,8 3/4 & Carolyn ,,36.325703,-119.616664,1422,,0,,America/Los_Angeles,,,0
-2436124,1003,,Lacey @ Government Center,,36.328173,-119.66352,1422,,0,,America/Los_Angeles,,,0
-2436018,1074,,COS Visalia Campus,,36.325058,-119.314202,1421,,0,,America/Los_Angeles,,,0
-2436032,2169,,Houston & Elvira,,36.298706,-119.639951,1422,,0,,America/Los_Angeles,,,0
-2436068,2006,,Douty@ Community Care,,36.335902,-119.645945,1422,,0,,America/Los_Angeles,,,0
-2436139,2144,,Hume @ Butternut,,36.30565,-119.662909,1422,,0,,America/Los_Angeles,,,0
-2436002,1093,,Fresno Fulton Mall,,36.733655,-119.792982,1421,,0,,America/Los_Angeles,,,0
-2436092,1044,,San Joaquin & 2nd,,36.00729,-120.136069,1421,,0,,America/Los_Angeles,,,0
-2436036,2134,,Lacey & Centennial,,36.327945,-119.678907,1422,,0,,America/Los_Angeles,,,0
-2436035,2137,,Lacey @ Chubby's,,36.327951,-119.662602,1422,,0,,America/Los_Angeles,,,0
-2435968,2072,,3rd & White,,36.323348,-119.638849,1422,,0,,America/Los_Angeles,,,0
-2436125,1002,,Lacey @ Carl's Jr.,,36.328169,-119.657373,1422,,0,,America/Los_Angeles,,,0
-2435874,1118,,Antelope & Spruce,,36.319424,-119.784672,1422,,0,,America/Los_Angeles,,,0
-2435970,2067,,7th @ United Market,,36.327596,-119.639859,1422,,0,,America/Los_Angeles,,,0
-2435913,2170,,11th & Bonneyview,,36.302101,-119.654723,1422,,0,,America/Los_Angeles,,,0
-2436054,2069,,7th & Douty,,36.326797,-119.645031,1422,,0,,America/Los_Angeles,,,0
-2435901,4022,,Noble @ Save Mart,,36.326604,-119.330676,1421,,0,,America/Los_Angeles,,,0
-2436076,2176,,11th @ Castle Square,,36.318314,-119.655166,1422,,0,,America/Los_Angeles,,,0
-2435963,2079,,Home & Shaw,,36.304032,-119.631236,1422,,0,,America/Los_Angeles,,,0
-2435920,2156,,7th @ Senior Villa Apartments,,36.325129,-119.664642,1422,,0,,America/Los_Angeles,,,0
-2435844,4061,,6th & Irwin,,36.325346800285,-119.64732194136,1422,,0,,America/Los_Angeles,,,0
-2436047,2080,,6th & Eastview,,36.303208,-119.628512,1422,,0,,America/Los_Angeles,,,0
-2435969,2068,,7th & Brown,,36.327095,-119.643107,1422,,0,,America/Los_Angeles,,,0
-2435906,4027,,Mineral King @ Kaweah Delta Hospital,,36.327491,-119.294484,1421,,0,,America/Los_Angeles,,,0
-2436061,2053,,Florinda & Harris,,36.33484,-119.644723,1422,,0,,America/Los_Angeles,,,0
-2436100,1041,,Milham & Becky Pease,,36.010322,-119.960379,1421,,0,,America/Los_Angeles,,,0
-2435861,1137,,D & Smith,,36.302263,-119.774476,1422,,0,,America/Los_Angeles,,,0
-2436081,2133,,Centennial @ Walmart,,36.323029,-119.676086,1422,,0,,America/Los_Angeles,,,0
-2436053,2070,,7th & Redington,,36.326293,-119.648169,1422,,0,,America/Los_Angeles,,,0
-2436138,2149,,Hanford Armona & Leslie,,36.313358,-119.657141,1422,,0,,America/Los_Angeles,,,0
-2435845,4060,,Lacey @ Victory Outreach,,36.32805,-119.618312,1422,,0,,America/Los_Angeles,,,0
-2435998,2000,,Valley Children's Hospital,,36.885069,-119.799995,1421,,0,,America/Los_Angeles,,,0
-2435932,1011,,Hanford Armona & 15th,,36.313561,-119.72638,1422,,0,,America/Los_Angeles,,,0
-2436058,2057,,Lassen & Florinda,,36.335585,-119.627406,1422,,0,,America/Los_Angeles,,,0
-2435938,2123,,Liberty & Hanford Armona Rd,,36.313,-119.794174,1422,,0,,America/Los_Angeles,,,0
-2435933,2128,,Hanford Armona & 16th,,36.313424,-119.744308,1422,,0,,America/Los_Angeles,,,0
-2436030,1050,,State Prison Administration Lot,,36.060002,-119.554627,1421,,0,,America/Los_Angeles,,,0
-2435903,4024,,Mooney @ Wendy's,,36.307436,-119.314002,1421,,0,,America/Los_Angeles,,,0
-2435930,2135,,Lacey @ Hanford Mall,,36.32795,-119.671654,1422,,0,,America/Los_Angeles,,,0
-2435882,4044,,Greenfield @ Greenfiled Village Apartments,,36.334595,-119.658459,1422,,0,,America/Los_Angeles,,,0
-2436111,1019,,Bush & Follett,,36.298365,-119.782952,1422,,0,,America/Los_Angeles,,,0
-2435924,2148,,Hanford Armona & 11 1/2,,36.31338,-119.663487,1422,,0,,America/Los_Angeles,,,0
-2435950,2102,,Franklin @ Pedestrian Bridge,,36.263049,-119.902175,1422,,0,,America/Los_Angeles,,,0
-2436103,1030,,Empire & Main,,36.189973,-119.820617,1421,,0,,America/Los_Angeles,,,0
-2436060,2054,,Florinda & Green,,36.334836,-119.640993,1422,,0,,America/Los_Angeles,,,0
-2436003,1089,,De Woody @ Post Office,,36.434451,-119.685505,1421,,0,,America/Los_Angeles,,,0
-2435971,2066,,Lacey & Miller,,36.328117,-119.635246,1422,,0,,America/Los_Angeles,,,0
-2435981,2043,,Douty across High School,,36.345586,-119.646131,1422,,0,,America/Los_Angeles,,,0
-2436074,2142,,Hume & 11th,,36.305637,-119.655413,1422,,0,,America/Los_Angeles,,,0
-2436001,1094,,Community Regional Center,,36.74189,-119.783716,1421,,0,,America/Los_Angeles,,,0
-2436038,2159,,11th & Cameron,,36.33704,-119.655018,1422,,0,,America/Los_Angeles,,,0
-2436099,1035,,Milham @ Housing Authority,,36.01034,-119.962772,1421,,0,,America/Los_Angeles,,,0
-2435935,2126,,Hanford Armona & Cinnamon,,36.313386,-119.769856,1422,,0,,America/Los_Angeles,,,0
-2435929,2136,,Lacey @ Cancer Center,,36.32795,-119.668063,1422,,0,,America/Los_Angeles,,,0
-2436042,2090,,Douty & 2nd,,36.321773,-119.644446,1422,,0,,America/Los_Angeles,,,0
-2435978,2051,,Florinda & Kaweah,,36.334837,-119.650728,1422,,0,,America/Los_Angeles,,,0
-2435965,2077,,10th & Orchard,,36.306561,-119.637044,1422,,0,,America/Los_Angeles,,,0
-2435995,2007,,Douty & Malone,,36.339343,-119.645955,1422,,0,,America/Los_Angeles,,,0
-2436094,1040,,Becky Pease & Standard Oil,,36.008854,-119.960156,1421,,0,,America/Los_Angeles,,,0
-2436083,1024,,West Hills College,,36.292466,-119.823231,1422,,0,,America/Los_Angeles,,,0
-2435993,2014,,11th & Fargo,,36.356433,-119.655184,1422,,0,,America/Los_Angeles,,,0
-2435926,2146,,Hanford Armona & 12th,,36.3134,-119.672504,1422,,0,,America/Los_Angeles,,,0
-2435988,2021,,7th & Douty,,36.326658,-119.644942,1422,,0,,America/Los_Angeles,,,0
-2436070,2004,,Douty @ Library,,36.329497,-119.645938,1422,,0,,America/Los_Angeles,,,0
-2436055,2065,,Lacey @ Smart & Final,,36.32811,-119.633646,1422,,0,,America/Los_Angeles,,,0
-2439178,,,6th & Redington,,36.325054504212,-119.64909314613,1422,,0,,America/Los_Angeles,,,0
-2436072,2154,,11th across Cost Less,,36.323412,-119.654986,1422,,0,,America/Los_Angeles,,,0
-2435884,4042,,Greenfield & Pleasant,,36.336416,-119.670969,1422,,0,,America/Los_Angeles,,,0
-2435999,1097,,Fresno @ Shaw,,36.807632,-119.781267,1421,,0,,America/Los_Angeles,,,0
-2435914,2168,,Shaw @ Home Garden Health Center,,36.299898,-119.631319,1422,,0,,America/Los_Angeles,,,0
-2436130,2010,,Douty & Cortner,,36.352136,-119.645947,1422,,0,,America/Los_Angeles,,,0
-2436137,2131,,Front @ Club Armona,,36.315555,-119.709865,1422,,0,,America/Los_Angeles,,,0
-2436028,1052,,Substance Abuse Prison Tower 5 Lot,,36.051517,-119.552564,1421,,0,,America/Los_Angeles,,,0
-2435895,4031,,Centennial & W Merritt,,36.335458,-119.680658,1422,,0,,America/Los_Angeles,,,0
-2436078,2046,,Douty & 11th,,36.331207,-119.646123,1422,,0,,America/Los_Angeles,,,0
-2436123,1004,,Lacey & Mall Drive,,36.328171,-119.66885,1422,,0,,America/Los_Angeles,,,0
-2435984,2030,,10th & Birch,,36.356115,-119.636871,1422,,0,,America/Los_Angeles,,,0
-2436064,2017,,11th & Neville,,36.340664,-119.655239,1422,,0,,America/Los_Angeles,,,0
-2435944,2115,,19th & Cypress,,36.29994,-119.798683,1422,,0,,America/Los_Angeles,,,0
-2435958,2088,,Irwin & Douty,,36.316466,-119.645846,1422,,0,,America/Los_Angeles,,,0
-2435859,4051,,19 1/2 @ The Grove Apts,,36.301156,-119.807862,1422,,0,,America/Los_Angeles,,,0
-2436000,1095,,Fresno Veteran's Hospital,,36.772629,-119.781453,1421,,0,,America/Los_Angeles,,,0
-2435925,2147,,Hanford Armona @ Centennial Park,,36.313388,-119.666454,1422,,0,,America/Los_Angeles,,,0
-2436039,2050,,Florinda @ Woodrow Wilson School,,36.334841,-119.653065,1422,,0,,America/Los_Angeles,,,0
-2436016,1098,,Fresno @ Shaw,,36.807488,-119.781559,1421,,0,,America/Los_Angeles,,,0
-2435904,4025,,Court & Caldwell,,36.298786,-119.29146,1421,,0,,America/Los_Angeles,,,0
-2435943,2117,,Hanford Armona @ K Mart,,36.313334,-119.783354,1422,,0,,America/Los_Angeles,,,0
-2436096,1038,,General Petroleum & 5th,,36.008199,-119.964405,1421,,0,,America/Los_Angeles,,,0
-2435850,4047,,Hazelwood & Quandt,,36.316326356531,-119.77868798646,1422,,0,,America/Los_Angeles,,,0
-2435871,1122,,Hanford-Armona @ Kings Estates Mobile Park,,36.313544,-119.789207,1422,,0,,America/Los_Angeles,,,0
-2435973,2063,,Lacey @ Kings Bowling Alley,,36.328098,-119.62886,1422,,0,,America/Los_Angeles,,,0
-2436011,2104,,NAS Hospital East End,,36.263738,-119.892268,1422,,0,,America/Los_Angeles,,,0
 2436069,2005,,Douty & Ivy,,36.33204,-119.64595,1422,,0,,America/Los_Angeles,,,0
 2436049,2044,,Douty & Malone,,36.339964,-119.646119,1422,,0,,America/Los_Angeles,,,0
 2435896,1213,,Samuel's House,,36.305454,-119.727018,1422,,0,,America/Los_Angeles,,,0
 2435867,1131,,19th @ Montgomery Apartments,,36.290038,-119.798745,1422,,0,,America/Los_Angeles,,,0
 2436008,2177,,11th & Davis,,36.318224,-119.654885,1422,,0,,America/Los_Angeles,,,0
 2435928,2140,,11th @ DMV,,36.312878,-119.655148,1422,,0,,America/Los_Angeles,,,0
-2436086,1027,,1st & Railroad,,36.193153,-119.824047,1421,,0,,America/Los_Angeles,,,0
-2435994,2011,,Fargo & Carter,,36.357329,-119.647512,1422,,0,,America/Los_Angeles,,,0
-2436077,2132,,14th & Hanford Armona,,36.313312,-119.709109,1422,,0,,America/Los_Angeles,,,0
-2435894,4032,,Centennial & Charlie Chambers,,36.329885,-119.679318,1422,,0,,America/Los_Angeles,,,0
-2435961,2082,,Garden & 2nd,,36.302361,-119.633799,1422,,0,,America/Los_Angeles,,,0
-2435951,2111,,Franklin & Enterprise,,36.263058,-119.905336,1422,,0,,America/Los_Angeles,,,0
-2436133,2002,,8th @ Family Healthcare Network,,36.32699,-119.650017,1422,,0,,America/Los_Angeles,,,0
-2435946,2108,,Enterprise @ Training Center,,36.258875,-119.905136,1422,,0,,America/Los_Angeles,,,0
-2435945,2114,,Bush across  Kings River Apartments,,36.298202,-119.805538,1422,,0,,America/Los_Angeles,,,0
-2435864,1134,,Bush @ Lemoore High School,,36.298256,-119.778914,1422,,0,,America/Los_Angeles,,,0
-2436098,1036,,3rd & Milham,,36.010079,-119.965363,1421,,0,,America/Los_Angeles,,,0
-2435996,2003,,8th @ Old Courthouse,,36.32746,-119.646969,1422,,0,,America/Los_Angeles,,,0
-2436014,2106,,Fleet & Family Support Center,,36.262771,-119.887539,1422,,0,,America/Los_Angeles,,,0
-2435955,2096,,D @ Best Western,,36.300301,-119.769177,1422,,0,,America/Los_Angeles,,,0
-2435976,2055,,Florinda & 10th,,36.334809,-119.636214,1422,,0,,America/Los_Angeles,,,0
-2435905,4000,,Bush @ South Valley Church,,36.298348,-119.797086,1422,,0,,America/Los_Angeles,,,0
-2435957,2094,,10th @ City Yard,,36.316597,-119.637092,1422,,0,,America/Los_Angeles,,,0
-2435980,2045,,Douty across Community Care,,36.335173,-119.646121,1422,,0,,America/Los_Angeles,,,0
-2435974,2060,,9 1/4 & Elm,,36.334204,-119.623537,1422,,0,,America/Los_Angeles,,,0
-2435888,4038,,Kings County Court House,,36.332873,-119.671444,1422,,0,,America/Los_Angeles,,,0
-2435877,1115,,Fox @ Lions Park,,36.30884,-119.788285,1422,,0,,America/Los_Angeles,,,0
-2436135,2093,,10th @ Fair Grounds,,36.319783,-119.63709,1422,,0,,America/Los_Angeles,,,0
-2436134,2071,,6th & Irwin,,36.325357,-119.646101,1422,,0,,America/Los_Angeles,,,0
-2435900,4023,,Mooney @ Visalia Mall,,36.31118,-119.314024,1421,,0,,America/Los_Angeles,,,0
-2436071,2151,,Jones @ Amberwood Apartments,,36.310391,-119.65278,1422,,0,,America/Los_Angeles,,,0
 2435880,1218,,KART Transit Center,,36.325644,-119.652615,1422,,0,,America/Los_Angeles,,,0
 2436065,2013,,Northstar @ Remmington,,36.360061,-119.654201,1422,,0,,America/Los_Angeles,,,0
 2435917,2163,,Grangeville & Fitzgerald,,36.342728,-119.669985,1422,,0,,America/Los_Angeles,,,0
@@ -188,30 +12,35 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 2435848,4053,,Mineral King Ave  @ Valley Childrens Clinic,,36.327885,-119.348508,1421,,0,,America/Los_Angeles,,,0
 2435908,2119,,Follett @ Cinnamon Villa Apartments,,36.305856,-119.784415,1422,,0,,America/Los_Angeles,,,0
 2435967,2073,,3rd & Douty,,36.322532,-119.644155,1422,,0,,America/Los_Angeles,,,0
+2456202,,,Hanger 2,,36.3298882679918,-119.950109094408,,,0,,America/Los_Angeles,,,0
 2436129,2040,,Douty & Fargo,,36.356971,-119.646148,1422,,0,,America/Los_Angeles,,,0
 2436051,2026,,10th @ Fraternal Hall,,36.335814,-119.636816,1422,,0,,America/Los_Angeles,,,0
 2436057,2058,,Lassen & Fernot,,36.338019,-119.626877,1422,,0,,America/Los_Angeles,,,0
-2436085,1200,,19th & Bush,,36.298431,-119.798735,1422,,0,,America/Los_Angeles,,,0
-2436007,1211,,Hanford Armona & Bennigton,,36.313382,-119.788357,1422,,0,,America/Los_Angeles,,,0
-2436090,1046,,Skyline @ Circle K,,36.002941,-120.131595,1421,,0,,America/Los_Angeles,,,0
-2436009,2175,,11th @ Cost Less,,36.322375,-119.65529,1422,,0,,America/Los_Angeles,,,0
-2436043,2089,,Douty & Lang,,36.31916,-119.644195,1422,,0,,America/Los_Angeles,,,0
-2435989,2020,,7th @ Union Bank,,36.326136,-119.648329,1422,,0,,America/Los_Angeles,,,0
-2435966,2076,,10th @ Tapatia Bakery,,36.30883,-119.637021,1422,,0,,America/Los_Angeles,,,0
-2435879,1113,,Fox across Leprino's,,36.303777,-119.786954,1422,,0,,America/Los_Angeles,,,0
-2436117,1012,,Hanford Armona & 16th,,36.313532,-119.745318,1422,,0,,America/Los_Angeles,,,0
-2435851,4046,,Cinnamon @ RiteAid,,36.30714,-119.779332,1422,,0,,America/Los_Angeles,,,0
-2435881,4045,,Greenfield @ Medical Offices,,36.329256,-119.658224,1422,,0,,America/Los_Angeles,,,0
-2435942,2118,,Cinnamon & 18th,,36.307121,-119.781911,1422,,0,,America/Los_Angeles,,,0
-2435878,1114,,Fox & Cinnamon,,36.305536,-119.787362,1422,,0,,America/Los_Angeles,,,0
-2435941,2120,,Follett @ Lemoore Depot,,36.303314,-119.783723,1422,,0,,America/Los_Angeles,,,0
-2435982,2042,,Douty & Leland,,36.349542,-119.646145,1422,,0,,America/Los_Angeles,,,0
-2435931,2130,,Front & Hanford Armona Rd,,36.314033,-119.717869,1422,,0,,America/Los_Angeles,,,0
-2436097,1037,,3rd & General Petroleum,,36.008315,-119.965386,1421,,0,,America/Los_Angeles,,,0
-2436022,1084,,Latonia & Gonser,,36.432712,-119.687384,1421,,0,,America/Los_Angeles,,,0
-2435918,2161,,Grangeville & Rodgers,,36.342748,-119.660382,1422,,0,,America/Los_Angeles,,,0
-2435964,2078,,Home & 2nd,,36.304083,-119.633618,1422,,0,,America/Los_Angeles,,,0
-2435977,2052,,Florinda & Redington,,36.33484,-119.649085,1422,,0,,America/Los_Angeles,,,0
+2436104,1028,,1st & Cross,,36.193058,-119.82217,1421,,0,,America/Los_Angeles,,,0
+2435887,4039,,12th @ Centennial Plaza,,36.329389,-119.673079,1422,,0,,America/Los_Angeles,,,0
+2435868,1125,,E @ Senior Living Apartments,,36.302198,-119.79017,1422,,0,,America/Los_Angeles,,,0
+2436027,1031,,Main & Empire,,36.189169,-119.820981,1421,,0,,America/Los_Angeles,,,0
+2436110,1020,,Bush @ City Park,,36.298357,-119.785476,1422,,0,,America/Los_Angeles,,,0
+2435849,4048,,Bush @ Davita Dialysis,,36.29819,-119.800718,1422,,0,,America/Los_Angeles,,,0
+2436136,1010,,Front @ Club Armona,,36.315743,-119.709624,1422,,0,,America/Los_Angeles,,,0
+2436031,2171,,11th & Hume,,36.30583,-119.654827,1422,,0,,America/Los_Angeles,,,0
+2435912,2172,,11th @ KCAO,,36.307657,-119.654841,1422,,0,,America/Los_Angeles,,,0
+2436087,1029,,1st & Empire,,36.193149,-119.820906,1421,,0,,America/Los_Angeles,,,0
+2435872,1121,,Hanford-Armona @ Walgreens,,36.313536,-119.781629,1422,,0,,America/Los_Angeles,,,0
+2436045,2086,,Hanford Armona & Harris,,36.313479,-119.642847,1422,,0,,America/Los_Angeles,,,0
+2456204,,,Hanger 5,,36.3365349135787,-119.954360956127,,,0,,America/Los_Angeles,,,0
+2436114,1016,,Hanford Armona @ Pioneer Square,,36.313545,-119.778846,1422,,0,,America/Los_Angeles,,,0
+2436132,2024,,10th @ Carwash,,36.330672,-119.636914,1422,,0,,America/Los_Angeles,,,0
+2436119,1008,,14th @ Armona Fire Station,,36.309788,-119.708992,1422,,0,,America/Los_Angeles,,,0
+2436052,2025,,10th & Myrtle,,36.33267,-119.636855,1422,,0,,America/Los_Angeles,,,0
+2436019,1083,,1st & Excelsior,,36.401302,-119.718464,1421,,0,,America/Los_Angeles,,,0
+2435990,2019,,11th @ Davita Dialysis,,36.330648,-119.655288,1422,,0,,America/Los_Angeles,,,0
+2435876,1116,,Fox @ K-Mart,,36.312891,-119.785148,1422,,0,,America/Los_Angeles,,,0
+2435857,4049,,Cinnamon & Holly,,36.305757,-119.801897,1422,,0,,America/Los_Angeles,,,0
+2435898,4030,,Mineral King @ Marie Callender's,,36.327554,-119.312681,1421,,0,,America/Los_Angeles,,,0
+2436048,2047,,Douty @ Civic Center,,36.328669,-119.646124,1422,,0,,America/Los_Angeles,,,0
+2435919,2157,,7th & Reagan,,36.325134,-119.661315,1422,,0,,America/Los_Angeles,,,0
+2435979,2048,,8th & Irwin,,36.327436,-119.648099,1422,,0,,America/Los_Angeles,,,0
 2436066,2012,,Aspen & Fargo,,36.357673,-119.650973,1422,,0,,America/Los_Angeles,,,0
 2435959,2085,,Hanford Armona @ Kings Rehab,,36.313463,-119.638408,1422,,0,,America/Los_Angeles,,,0
 2436010,2103,,Franklin @ McDonalds,,36.263096,-119.900048,1422,,0,,America/Los_Angeles,,,0
@@ -227,33 +56,33 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 2435893,4033,,9 1/4  & Hawthorn ,,36.329258,-119.623507,1422,,0,,America/Los_Angeles,,,0
 2435911,1075,,Mooney @ Sequoia Mall,,36.299756,-119.313881,1421,,0,,America/Los_Angeles,,,0
 2436084,2116,,19th @ Lemoore Soccer Complex,,36.304244,-119.798677,1422,,0,,America/Los_Angeles,,,0
+2456201,,,Across Black Bear Diner,,36.3279613372225,-119.674124832286,,,0,,America/Los_Angeles,,,0
 2436033,2167,,Hanford Armona & 10 1/2,,36.313323,-119.645396,1422,,0,,America/Los_Angeles,,,0
 2435948,2113,,Franklin @ Spuds,,36.263266,-119.89705,1422,,0,,America/Los_Angeles,,,0
 2435922,2152,,11th @ Amberwood Apartments,,36.31025,-119.654863,1422,,0,,America/Los_Angeles,,,0
-2436104,1028,,1st & Cross,,36.193058,-119.82217,1421,,0,,America/Los_Angeles,,,0
-2435887,4039,,12th @ Centennial Plaza,,36.329389,-119.673079,1422,,0,,America/Los_Angeles,,,0
-2435868,1125,,E @ Senior Living Apartments,,36.302198,-119.79017,1422,,0,,America/Los_Angeles,,,0
-2436027,1031,,Main & Empire,,36.189169,-119.820981,1421,,0,,America/Los_Angeles,,,0
-2436110,1020,,Bush @ City Park,,36.298357,-119.785476,1422,,0,,America/Los_Angeles,,,0
-2435849,4048,,Bush @ Davita Dialysis,,36.29819,-119.800718,1422,,0,,America/Los_Angeles,,,0
-2436136,1010,,Front @ Club Armona,,36.315743,-119.709624,1422,,0,,America/Los_Angeles,,,0
-2436031,2171,,11th & Hume,,36.30583,-119.654827,1422,,0,,America/Los_Angeles,,,0
-2435912,2172,,11th @ KCAO,,36.307657,-119.654841,1422,,0,,America/Los_Angeles,,,0
-2436087,1029,,1st & Empire,,36.193149,-119.820906,1421,,0,,America/Los_Angeles,,,0
-2435872,1121,,Hanford-Armona @ Walgreens,,36.313536,-119.781629,1422,,0,,America/Los_Angeles,,,0
-2436045,2086,,Hanford Armona & Harris,,36.313479,-119.642847,1422,,0,,America/Los_Angeles,,,0
-2436114,1016,,Hanford Armona @ Pioneer Square,,36.313545,-119.778846,1422,,0,,America/Los_Angeles,,,0
-2436132,2024,,10th @ Carwash,,36.330672,-119.636914,1422,,0,,America/Los_Angeles,,,0
-2436119,1008,,14th @ Armona Fire Station,,36.309788,-119.708992,1422,,0,,America/Los_Angeles,,,0
-2436052,2025,,10th & Myrtle,,36.33267,-119.636855,1422,,0,,America/Los_Angeles,,,0
-2436019,1083,,1st & Excelsior,,36.401302,-119.718464,1421,,0,,America/Los_Angeles,,,0
-2435990,2019,,11th @ Davita Dialysis,,36.330648,-119.655288,1422,,0,,America/Los_Angeles,,,0
-2435876,1116,,Fox @ K-Mart,,36.312891,-119.785148,1422,,0,,America/Los_Angeles,,,0
-2435857,4049,,Cinnamon & Holly,,36.305757,-119.801897,1422,,0,,America/Los_Angeles,,,0
-2435898,4030,,Mineral King @ Marie Callender's,,36.327554,-119.312681,1421,,0,,America/Los_Angeles,,,0
-2436048,2047,,Douty @ Civic Center,,36.328669,-119.646124,1422,,0,,America/Los_Angeles,,,0
-2435919,2157,,7th & Reagan,,36.325134,-119.661315,1422,,0,,America/Los_Angeles,,,0
-2435979,2048,,8th & Irwin,,36.327436,-119.648099,1422,,0,,America/Los_Angeles,,,0
+2435869,1124,,Cinnamon @ Lemoore Recreation Center,,36.30553,-119.793372,1422,,0,,America/Los_Angeles,,,0
+2436079,2041,,Douty & Cortner,,36.352074,-119.646153,1422,,0,,America/Los_Angeles,,,0
+2436029,1051,,Substance Abuse Prison Administration Lot,,36.05183,-119.539614,1421,,0,,America/Los_Angeles,,,0
+2436140,2143,,Hume & Echo,,36.305654,-119.660257,1422,,0,,America/Los_Angeles,,,0
+2436044,2087,,Hanford Armona & Irwin,,36.313487,-119.645253,1422,,0,,America/Los_Angeles,,,0
+2435847,4058,,Fresno Kaiser Hospital,,36.84234,-119.783139,1421,,0,,America/Los_Angeles,,,0
+2436108,1022,,Bush @ Kings River Apartments,,36.298363,-119.80576,1422,,0,,America/Los_Angeles,,,0
+2435909,1077,,Visalia Transit Center,,36.331861,-119.288234,1421,,0,,America/Los_Angeles,,,0
+2436126,1042,,San Joaquin & Union,,36.007173,-120.123958,1421,,0,,America/Los_Angeles,,,0
+2435853,4054,,Lacey @ Costco,,36.327885,-119.604823,1422,,0,,America/Los_Angeles,,,0
+2435858,4050,,Cinnamon & Dogwood,,36.305744,-119.806115,1422,,0,,America/Los_Angeles,,,0
+2436107,1023,,Bush & Belle Haven,,36.296329,-119.812284,1422,,0,,America/Los_Angeles,,,0
+2436089,1047,,Skyline @ State Supermarket,,36.00466,-120.128068,1421,,0,,America/Los_Angeles,,,0
+2436015,1090,,Across De Woody @ Post Office,,36.43458,-119.685553,1421,,0,,America/Los_Angeles,,,0
+2436026,1202,,14th & Highway 198,,36.30873,-119.709268,1422,,0,,America/Los_Angeles,,,0
+2435899,4026,,Court @ Visalia Imaging,,36.315328,-119.291978,1421,,0,,America/Los_Angeles,,,0
+2435986,2023,,7th & East,,36.327621,-119.638679,1422,,0,,America/Los_Angeles,,,0
+2436091,1045,,San Joaquin & Thurston,,36.007417,-120.14516,1421,,0,,America/Los_Angeles,,,0
+2456195,,,Douty @ Church,,36.3310648020439,-119.645929060971,1422,,0,,America/Los_Angeles,,,0
+2436105,1026,,1st & Railroad,,36.193062,-119.824203,1421,,0,,America/Los_Angeles,,,0
+2435855,4057,,Lacey & Country,,36.328078,-119.61526,1422,,0,,America/Los_Angeles,,,0
+2436128,1000,,KART Transit Center,,36.326104,-119.652649,1422,,0,,America/Los_Angeles,,,0
+2436041,2155,,7th @ Adventist Hospital,,36.325459,-119.668065,1422,,0,,America/Los_Angeles,,,0
 2436021,1081,,2nd & Excelsior,,36.401249,-119.719712,1421,,0,,America/Los_Angeles,,,0
 2436056,2061,,9 1/4 @ View Road Apartments,,36.330847,-119.623548,1422,,0,,America/Los_Angeles,,,0
 2436116,1013,,Hanford Armona across Westberry Apartments,,36.313584,-119.765475,1422,,0,,America/Los_Angeles,,,0
@@ -275,25 +104,208 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 2436073,2145,,12th & Freestone,,36.309626,-119.672823,1422,,0,,America/Los_Angeles,,,0
 2435954,2097,,E @ Lemoore Depot,,36.303002,-119.784944,1422,,0,,America/Los_Angeles,,,0
 2435852,4055,,Lacey & Vidaurri,,36.328097,-119.607409,1422,,0,,America/Los_Angeles,,,0
-2435869,1124,,Cinnamon @ Lemoore Recreation Center,,36.30553,-119.793372,1422,,0,,America/Los_Angeles,,,0
-2436079,2041,,Douty & Cortner,,36.352074,-119.646153,1422,,0,,America/Los_Angeles,,,0
-2436029,1051,,Substance Abuse Prison Administration Lot,,36.05183,-119.539614,1421,,0,,America/Los_Angeles,,,0
-2436140,2143,,Hume & Echo,,36.305654,-119.660257,1422,,0,,America/Los_Angeles,,,0
-2436044,2087,,Hanford Armona & Irwin,,36.313487,-119.645253,1422,,0,,America/Los_Angeles,,,0
-2435847,4058,,Fresno Kaiser Hospital,,36.84234,-119.783139,1421,,0,,America/Los_Angeles,,,0
-2436108,1022,,Bush @ Kings River Apartments,,36.298363,-119.80576,1422,,0,,America/Los_Angeles,,,0
-2435909,1077,,Visalia Transit Center,,36.331861,-119.288234,1421,,0,,America/Los_Angeles,,,0
-2436126,1042,,San Joaquin & Union,,36.007173,-120.123958,1421,,0,,America/Los_Angeles,,,0
-2435853,4054,,Lacey @ Costco,,36.327885,-119.604823,1422,,0,,America/Los_Angeles,,,0
-2435858,4050,,Cinnamon & Dogwood,,36.305744,-119.806115,1422,,0,,America/Los_Angeles,,,0
-2436107,1023,,Bush & Belle Haven,,36.296329,-119.812284,1422,,0,,America/Los_Angeles,,,0
-2436089,1047,,Skyline @ State Supermarket,,36.00466,-120.128068,1421,,0,,America/Los_Angeles,,,0
-2436015,1090,,Across De Woody @ Post Office,,36.43458,-119.685553,1421,,0,,America/Los_Angeles,,,0
-2436026,1202,,14th & Highway 198,,36.30873,-119.709268,1422,,0,,America/Los_Angeles,,,0
-2435899,4026,,Court @ Visalia Imaging,,36.315328,-119.291978,1421,,0,,America/Los_Angeles,,,0
-2435986,2023,,7th & East,,36.327621,-119.638679,1422,,0,,America/Los_Angeles,,,0
-2436091,1045,,San Joaquin & Thurston,,36.007417,-120.14516,1421,,0,,America/Los_Angeles,,,0
-2436105,1026,,1st & Railroad,,36.193062,-119.824203,1421,,0,,America/Los_Angeles,,,0
-2435855,4057,,Lacey & Country,,36.328078,-119.61526,1422,,0,,America/Los_Angeles,,,0
-2436128,1000,,KART Transit Center,,36.326104,-119.652649,1422,,0,,America/Los_Angeles,,,0
-2436041,2155,,7th @ Adventist Hospital,,36.325459,-119.668065,1422,,0,,America/Los_Angeles,,,0
+2435862,1136,,Bush & D,,36.299522,-119.769496,1422,,0,,America/Los_Angeles,,,0
+2456200,,,Across FRCW,,36.3240826181138,-119.946177447684,,,0,,America/Los_Angeles,,,0
+2436101,1033,,Main @ Grain Mill,,36.189488,-119.825729,1421,,0,,America/Los_Angeles,,,0
+2435953,2099,,Naval Air Station Exit,,36.25574,-119.902288,1422,,0,,America/Los_Angeles,,,0
+2435940,2121,,Liberty & Cinnamon,,36.306264,-119.794185,1422,,0,,America/Los_Angeles,,,0
+2436131,2008,,Douty @ High School,,36.344129,-119.645914,1422,,0,,America/Los_Angeles,,,0
+2436080,2028,,10th & Grangeville,,36.3432,-119.636844,1422,,0,,America/Los_Angeles,,,0
+2435915,2166,,Hanford Armona @ Railroad,,36.313342,-119.650859,1422,,0,,America/Los_Angeles,,,0
+2435987,2022,,7th & Brown,,36.327078,-119.64218,1422,,0,,America/Los_Angeles,,,0
+2435902,4021,,Noble & Akers,,36.326731,-119.347608,1421,,0,,America/Los_Angeles,,,0
+2436050,2027,,10th & Malone,,36.339222,-119.636836,1422,,0,,America/Los_Angeles,,,0
+2435992,2015,,11th & Cortner,,36.351433,-119.655172,1422,,0,,America/Los_Angeles,,,0
+2435873,1120,,Hazelwood & Beverly,,36.316113,-119.777723,1422,,0,,America/Los_Angeles,,,0
+2436013,2101,,Navy Exchange Center,,36.26035,-119.911178,1422,,0,,America/Los_Angeles,,,0
+2436034,2138,,Lacey & Greenfield,,36.327941,-119.6584,1422,,0,,America/Los_Angeles,,,0
+2436121,1006,,Lacey @ Heritage Park Senior Center,,36.328177,-119.678532,1422,,0,,America/Los_Angeles,,,0
+2436037,2160,,Grangeville & 11th,,36.342752,-119.656533,1422,,0,,America/Los_Angeles,,,0
+2435860,1138,,D across Chevron,,36.302554,-119.779689,1422,,0,,America/Los_Angeles,,,0
+2435854,4056,,Lacey & Sierra,,36.328079,-119.61085,1422,,0,,America/Los_Angeles,,,0
+2436006,1085,,Dennis & Mt Whitney,,36.431397,-119.693594,1421,,0,,America/Los_Angeles,,,0
+2436120,1007,,Centennial @ Walmart,,36.322797,-119.675269,1422,,0,,America/Los_Angeles,,,0
+2435889,4037,,7th @ Medical Centers,,36.325278,-119.657726,1422,,0,,America/Los_Angeles,,,0
+2436024,4001,,Amtrak,,36.09829,-119.557587,1422,,0,,America/Los_Angeles,,,0
+2435891,4035,,Carolyn & El Toro,,36.325574,-119.613639,1422,,0,,America/Los_Angeles,,,0
+2435962,2081,,Garden & Shaw,,36.302678,-119.630196,1422,,0,,America/Los_Angeles,,,0
+2436082,2129,,Hanford Armona & 15th,,36.313446,-119.726402,1422,,0,,America/Los_Angeles,,,0
+2456205,,,Hanger 3,,36.3332495933229,-119.952552810252,,,0,,America/Los_Angeles,,,0
+2436127,1048,,Skyline & Union,,36.006729,-120.123837,1421,,0,,America/Los_Angeles,,,0
+2435910,1015,,Hanford Armona @ Park Place Apartments,,36.313567,-119.774752,1422,,0,,America/Los_Angeles,,,0
+2435936,2125,,Hanford Armona across Park Place Apartments,,36.313378,-119.77495,1422,,0,,America/Los_Angeles,,,0
+2435985,2029,,10th & Leland,,36.350301,-119.636904,1422,,0,,America/Los_Angeles,,,0
+2436106,1025,,Bush & Belle Haven,,36.296144,-119.812224,1422,,0,,America/Los_Angeles,,,0
+2435937,2124,,Hanford Armona @ Country Club Apartments,,36.31337,-119.778202,1422,,0,,America/Los_Angeles,,,0
+2435865,1133,,Bush @ Lemoore Elementary School,,36.298197,-119.787036,1422,,0,,America/Los_Angeles,,,0
+2435883,4043,,Greenfield @ Youth Athletic Complex,,36.335861,-119.664255,1422,,0,,America/Los_Angeles,,,0
+2436020,1082,,Johnson & 1st,,36.402142,-119.718831,1421,,0,,America/Los_Angeles,,,0
+2436062,2049,,11th @ Railroad Tracks,,36.331179,-119.655017,1422,,0,,America/Los_Angeles,,,0
+2435897,1212,,Hanford Armona @ Kings Terrace Apartments,,36.313353,-119.6389,1422,,0,,America/Los_Angeles,,,0
+2436113,1017,,18th @ Pizza Hut,,36.31208,-119.780924,1422,,0,,America/Los_Angeles,,,0
+2435923,2150,,Jones & Hanford Armona,,36.312938,-119.652798,1422,,0,,America/Los_Angeles,,,0
+2436025,1072,,Amtrak,,36.09923,-119.557646,1421,,0,,America/Los_Angeles,,,0
+2435890,4036,,8 3/4 & Carolyn ,,36.325703,-119.616664,1422,,0,,America/Los_Angeles,,,0
+2436124,1003,,Lacey @ Government Center,,36.328173,-119.66352,1422,,0,,America/Los_Angeles,,,0
+2436018,1074,,COS Visalia Campus,,36.325058,-119.314202,1421,,0,,America/Los_Angeles,,,0
+2436032,2169,,Houston & Elvira,,36.298706,-119.639951,1422,,0,,America/Los_Angeles,,,0
+2436068,2006,,Douty@ Community Care,,36.335902,-119.645945,1422,,0,,America/Los_Angeles,,,0
+2436139,2144,,Hume @ Butternut,,36.30565,-119.662909,1422,,0,,America/Los_Angeles,,,0
+2436002,1093,,Fresno Fulton Mall,,36.733655,-119.792982,1421,,0,,America/Los_Angeles,,,0
+2436092,1044,,San Joaquin & 2nd,,36.00729,-120.136069,1421,,0,,America/Los_Angeles,,,0
+2456197,,,Lacey @ Kings Eye Center,,36.3279285732682,-119.666254781692,,,0,,America/Los_Angeles,,,0
+2436036,2134,,Lacey & Centennial,,36.327945,-119.678907,1422,,0,,America/Los_Angeles,,,0
+2436035,2137,,Lacey @ Chubby's,,36.327951,-119.662602,1422,,0,,America/Los_Angeles,,,0
+2436115,1014,,Hanford Armona & Belinda,,36.313579,-119.770747,1422,,0,,America/Los_Angeles,,,0
+2435934,2127,,Hanford Armona @ Westberry Apartments,,36.313359,-119.765368,1422,,0,,America/Los_Angeles,,,0
+2436112,1018,,18th & D,,36.302035,-119.780902,1422,,0,,America/Los_Angeles,,,0
+2435870,1123,,Hanford Armona @ Lemoore Mobile Park,,36.313484,-119.797253,1422,,0,,America/Los_Angeles,,,0
+2436118,1009,,14th @ Armona Senior Center,,36.314244,-119.708926,1422,,0,,America/Los_Angeles,,,0
+2436109,1021,,Bush & Olive,,36.298364,-119.791068,1422,,0,,America/Los_Angeles,,,0
+2436067,2009,,Douty & Leland,,36.349669,-119.645943,1422,,0,,America/Los_Angeles,,,0
+2435886,4040,,Lacey @ Four Seasons Mobile Park,,36.328139,-119.687701,1422,,0,,America/Los_Angeles,,,0
+2436005,1087,,Murphy & Fatima,,36.434605,-119.691519,1421,,0,,America/Los_Angeles,,,0
+2436093,1043,,San Joaquin & 5th,,36.007207,-120.131158,1421,,0,,America/Los_Angeles,,,0
+2435892,4034,,Carolyn & Lacey ,,36.327324,-119.612732,1422,,0,,America/Los_Angeles,,,0
+2435875,1117,,Antelope & Burlwood,,36.31579,-119.784941,1422,,0,,America/Los_Angeles,,,0
+2435907,2162,,Grangeville & University,,36.342724,-119.665928,1422,,0,,America/Los_Angeles,,,0
+2435975,2059,,9 1/4 @ King Garden Apartments,,36.338668,-119.62357,1422,,0,,America/Los_Angeles,,,0
+2436075,2139,,11th & Washington,,36.315796,-119.655146,1422,,0,,America/Los_Angeles,,,0
+2456196,,,5th @ FHCN,,36.3244005004794,-119.647577109027,1422,,0,,America/Los_Angeles,,,0
+2435960,2083,,Garden & 10th,,36.302418,-119.63631,1422,,0,,America/Los_Angeles,,,0
+2435997,2001,,Community Regional Center,,36.741574,-119.784559,1421,,0,,America/Los_Angeles,,,0
+2436063,2018,,11th @ KCAO,,36.336501,-119.655255,1422,,0,,America/Los_Angeles,,,0
+2436004,1088,,Murphy & Gonser,,36.434602,-119.688635,1421,,0,,America/Los_Angeles,,,0
+2435885,4041,,COS & Sierra Pacific High School,,36.333358,-119.690853,1422,,0,,America/Los_Angeles,,,0
+2436053,2070,,7th & Redington,,36.326293,-119.648169,1422,,0,,America/Los_Angeles,,,0
+2436138,2149,,Hanford Armona & Leslie,,36.313358,-119.657141,1422,,0,,America/Los_Angeles,,,0
+2435845,4060,,Lacey @ Victory Outreach,,36.32805,-119.618312,1422,,0,,America/Los_Angeles,,,0
+2435998,2000,,Valley Children's Hospital,,36.885069,-119.799995,1421,,0,,America/Los_Angeles,,,0
+2435932,1011,,Hanford Armona & 15th,,36.313561,-119.72638,1422,,0,,America/Los_Angeles,,,0
+2436058,2057,,Lassen & Florinda,,36.335585,-119.627406,1422,,0,,America/Los_Angeles,,,0
+2435938,2123,,Liberty & Hanford Armona Rd,,36.313,-119.794174,1422,,0,,America/Los_Angeles,,,0
+2435933,2128,,Hanford Armona & 16th,,36.313424,-119.744308,1422,,0,,America/Los_Angeles,,,0
+2436030,1050,,State Prison Administration Lot,,36.060002,-119.554627,1421,,0,,America/Los_Angeles,,,0
+2435903,4024,,Mooney @ Wendy's,,36.307436,-119.314002,1421,,0,,America/Los_Angeles,,,0
+2435930,2135,,Lacey @ Hanford Mall,,36.32795,-119.671654,1422,,0,,America/Los_Angeles,,,0
+2435882,4044,,Greenfield @ Greenfiled Village Apartments,,36.334595,-119.658459,1422,,0,,America/Los_Angeles,,,0
+2436111,1019,,Bush & Follett,,36.298365,-119.782952,1422,,0,,America/Los_Angeles,,,0
+2456203,,,Hanger 4,,36.3331564023461,-119.951941387944,,,0,,America/Los_Angeles,,,0
+2435968,2072,,3rd & White,,36.323348,-119.638849,1422,,0,,America/Los_Angeles,,,0
+2436125,1002,,Lacey @ Carl's Jr.,,36.328169,-119.657373,1422,,0,,America/Los_Angeles,,,0
+2435874,1118,,Antelope & Spruce,,36.319424,-119.784672,1422,,0,,America/Los_Angeles,,,0
+2435970,2067,,7th @ United Market,,36.327596,-119.639859,1422,,0,,America/Los_Angeles,,,0
+2435913,2170,,11th & Bonneyview,,36.302101,-119.654723,1422,,0,,America/Los_Angeles,,,0
+2456206,,,Hanger 1,,36.3294303449941,-119.950430903516,,,0,,America/Los_Angeles,,,0
+2436054,2069,,7th & Douty,,36.326797,-119.645031,1422,,0,,America/Los_Angeles,,,0
+2435901,4022,,Noble @ Save Mart,,36.326604,-119.330676,1421,,0,,America/Los_Angeles,,,0
+2436076,2176,,11th @ Castle Square,,36.318314,-119.655166,1422,,0,,America/Los_Angeles,,,0
+2435963,2079,,Home & Shaw,,36.304032,-119.631236,1422,,0,,America/Los_Angeles,,,0
+2435920,2156,,7th @ Senior Villa Apartments,,36.325129,-119.664642,1422,,0,,America/Los_Angeles,,,0
+2436086,1027,,1st & Railroad,,36.193153,-119.824047,1421,,0,,America/Los_Angeles,,,0
+2435994,2011,,Fargo & Carter,,36.357329,-119.647512,1422,,0,,America/Los_Angeles,,,0
+2436077,2132,,14th & Hanford Armona,,36.313312,-119.709109,1422,,0,,America/Los_Angeles,,,0
+2435894,4032,,Centennial & Charlie Chambers,,36.329885,-119.679318,1422,,0,,America/Los_Angeles,,,0
+2435961,2082,,Garden & 2nd,,36.302361,-119.633799,1422,,0,,America/Los_Angeles,,,0
+2435951,2111,,Franklin & Enterprise,,36.263058,-119.905336,1422,,0,,America/Los_Angeles,,,0
+2436133,2002,,8th @ Family Healthcare Network,,36.32699,-119.650017,1422,,0,,America/Los_Angeles,,,0
+2435946,2108,,Enterprise @ Training Center,,36.258875,-119.905136,1422,,0,,America/Los_Angeles,,,0
+2435945,2114,,Bush across  Kings River Apartments,,36.298202,-119.805538,1422,,0,,America/Los_Angeles,,,0
+2435864,1134,,Bush @ Lemoore High School,,36.298256,-119.778914,1422,,0,,America/Los_Angeles,,,0
+2436098,1036,,3rd & Milham,,36.010079,-119.965363,1421,,0,,America/Los_Angeles,,,0
+2435895,4031,,Centennial & W Merritt,,36.335458,-119.680658,1422,,0,,America/Los_Angeles,,,0
+2436078,2046,,Douty & 11th,,36.331207,-119.646123,1422,,0,,America/Los_Angeles,,,0
+2436123,1004,,Lacey & Mall Drive,,36.328171,-119.66885,1422,,0,,America/Los_Angeles,,,0
+2435984,2030,,10th & Birch,,36.356115,-119.636871,1422,,0,,America/Los_Angeles,,,0
+2436064,2017,,11th & Neville,,36.340664,-119.655239,1422,,0,,America/Los_Angeles,,,0
+2435944,2115,,19th & Cypress,,36.29994,-119.798683,1422,,0,,America/Los_Angeles,,,0
+2435958,2088,,Irwin & Douty,,36.316466,-119.645846,1422,,0,,America/Los_Angeles,,,0
+2435859,4051,,19 1/2 @ The Grove Apts,,36.301156,-119.807862,1422,,0,,America/Los_Angeles,,,0
+2436000,1095,,Fresno Veteran's Hospital,,36.772629,-119.781453,1421,,0,,America/Los_Angeles,,,0
+2435925,2147,,Hanford Armona @ Centennial Park,,36.313388,-119.666454,1422,,0,,America/Los_Angeles,,,0
+2436039,2050,,Florinda @ Woodrow Wilson School,,36.334841,-119.653065,1422,,0,,America/Los_Angeles,,,0
+2436016,1098,,Fresno @ Shaw,,36.807488,-119.781559,1421,,0,,America/Los_Angeles,,,0
+2435904,4025,,Court & Caldwell,,36.298786,-119.29146,1421,,0,,America/Los_Angeles,,,0
+2435943,2117,,Hanford Armona @ K Mart,,36.313334,-119.783354,1422,,0,,America/Los_Angeles,,,0
+2436096,1038,,General Petroleum & 5th,,36.008199,-119.964405,1421,,0,,America/Los_Angeles,,,0
+2435850,4047,,Hazelwood & Quandt,,36.316326356531,-119.77868798646,1422,,0,,America/Los_Angeles,,,0
+2435871,1122,,Hanford-Armona @ Kings Estates Mobile Park,,36.313544,-119.789207,1422,,0,,America/Los_Angeles,,,0
+2435973,2063,,Lacey @ Kings Bowling Alley,,36.328098,-119.62886,1422,,0,,America/Los_Angeles,,,0
+2436011,2104,,NAS Hospital East End,,36.263738,-119.892268,1422,,0,,America/Los_Angeles,,,0
+2436085,1200,,19th & Bush,,36.298431,-119.798735,1422,,0,,America/Los_Angeles,,,0
+2436007,1211,,Hanford Armona & Bennigton,,36.313382,-119.788357,1422,,0,,America/Los_Angeles,,,0
+2436090,1046,,Skyline @ Circle K,,36.002941,-120.131595,1421,,0,,America/Los_Angeles,,,0
+2436009,2175,,11th @ Cost Less,,36.322375,-119.65529,1422,,0,,America/Los_Angeles,,,0
+2436043,2089,,Douty & Lang,,36.31916,-119.644195,1422,,0,,America/Los_Angeles,,,0
+2435989,2020,,7th @ Union Bank,,36.326136,-119.648329,1422,,0,,America/Los_Angeles,,,0
+2435966,2076,,10th @ Tapatia Bakery,,36.30883,-119.637021,1422,,0,,America/Los_Angeles,,,0
+2435879,1113,,Fox across Leprino's,,36.303777,-119.786954,1422,,0,,America/Los_Angeles,,,0
+2436117,1012,,Hanford Armona & 16th,,36.313532,-119.745318,1422,,0,,America/Los_Angeles,,,0
+2435851,4046,,Cinnamon @ RiteAid,,36.30714,-119.779332,1422,,0,,America/Los_Angeles,,,0
+2435881,4045,,Greenfield @ Medical Offices,,36.329256,-119.658224,1422,,0,,America/Los_Angeles,,,0
+2435942,2118,,Cinnamon & 18th,,36.307121,-119.781911,1422,,0,,America/Los_Angeles,,,0
+2435878,1114,,Fox & Cinnamon,,36.305536,-119.787362,1422,,0,,America/Los_Angeles,,,0
+2435941,2120,,Follett @ Lemoore Depot,,36.303314,-119.783723,1422,,0,,America/Los_Angeles,,,0
+2435982,2042,,Douty & Leland,,36.349542,-119.646145,1422,,0,,America/Los_Angeles,,,0
+2435931,2130,,Front & Hanford Armona Rd,,36.314033,-119.717869,1422,,0,,America/Los_Angeles,,,0
+2436097,1037,,3rd & General Petroleum,,36.008315,-119.965386,1421,,0,,America/Los_Angeles,,,0
+2436022,1084,,Latonia & Gonser,,36.432712,-119.687384,1421,,0,,America/Los_Angeles,,,0
+2435918,2161,,Grangeville & Rodgers,,36.342748,-119.660382,1422,,0,,America/Los_Angeles,,,0
+2435964,2078,,Home & 2nd,,36.304083,-119.633618,1422,,0,,America/Los_Angeles,,,0
+2435977,2052,,Florinda & Redington,,36.33484,-119.649085,1422,,0,,America/Los_Angeles,,,0
+2435996,2003,,8th @ Old Courthouse,,36.32746,-119.646969,1422,,0,,America/Los_Angeles,,,0
+2436014,2106,,Fleet & Family Support Center,,36.262771,-119.887539,1422,,0,,America/Los_Angeles,,,0
+2435955,2096,,D @ Best Western,,36.300301,-119.769177,1422,,0,,America/Los_Angeles,,,0
+2435976,2055,,Florinda & 10th,,36.334809,-119.636214,1422,,0,,America/Los_Angeles,,,0
+2435905,4000,,Bush @ South Valley Church,,36.298348,-119.797086,1422,,0,,America/Los_Angeles,,,0
+2435957,2094,,10th @ City Yard,,36.316597,-119.637092,1422,,0,,America/Los_Angeles,,,0
+2435980,2045,,Douty across Community Care,,36.335173,-119.646121,1422,,0,,America/Los_Angeles,,,0
+2435974,2060,,9 1/4 & Elm,,36.334204,-119.623537,1422,,0,,America/Los_Angeles,,,0
+2435888,4038,,Kings County Court House,,36.332873,-119.671444,1422,,0,,America/Los_Angeles,,,0
+2435877,1115,,Fox @ Lions Park,,36.30884,-119.788285,1422,,0,,America/Los_Angeles,,,0
+2436135,2093,,10th @ Fair Grounds,,36.319783,-119.63709,1422,,0,,America/Los_Angeles,,,0
+2436134,2071,,6th & Irwin,,36.325357,-119.646101,1422,,0,,America/Los_Angeles,,,0
+2435900,4023,,Mooney @ Visalia Mall,,36.31118,-119.314024,1421,,0,,America/Los_Angeles,,,0
+2436071,2151,,Jones @ Amberwood Apartments,,36.310391,-119.65278,1422,,0,,America/Los_Angeles,,,0
+2435844,4061,,6th & Irwin,,36.325346800285,-119.64732194136,1422,,0,,America/Los_Angeles,,,0
+2456198,,,Noble & Mooney (COS),,36.3264733928348,-119.313509919903,1421,,0,,America/Los_Angeles,,,0
+2436047,2080,,6th & Eastview,,36.303208,-119.628512,1422,,0,,America/Los_Angeles,,,0
+2435969,2068,,7th & Brown,,36.327095,-119.643107,1422,,0,,America/Los_Angeles,,,0
+2435906,4027,,Mineral King @ Kaweah Delta Hospital,,36.327491,-119.294484,1421,,0,,America/Los_Angeles,,,0
+2436061,2053,,Florinda & Harris,,36.33484,-119.644723,1422,,0,,America/Los_Angeles,,,0
+2436100,1041,,Milham & Becky Pease,,36.010322,-119.960379,1421,,0,,America/Los_Angeles,,,0
+2435861,1137,,D & Smith,,36.302263,-119.774476,1422,,0,,America/Los_Angeles,,,0
+2436081,2133,,Centennial @ Walmart,,36.323029,-119.676086,1422,,0,,America/Los_Angeles,,,0
+2436042,2090,,Douty & 2nd,,36.321773,-119.644446,1422,,0,,America/Los_Angeles,,,0
+2435978,2051,,Florinda & Kaweah,,36.334837,-119.650728,1422,,0,,America/Los_Angeles,,,0
+2435965,2077,,10th & Orchard,,36.306561,-119.637044,1422,,0,,America/Los_Angeles,,,0
+2435995,2007,,Douty & Malone,,36.339343,-119.645955,1422,,0,,America/Los_Angeles,,,0
+2456199,,,FRCW,,36.3241763173664,-119.946284935705,,,0,,America/Los_Angeles,,,0
+2436094,1040,,Becky Pease & Standard Oil,,36.008854,-119.960156,1421,,0,,America/Los_Angeles,,,0
+2436083,1024,,West Hills College,,36.292466,-119.823231,1422,,0,,America/Los_Angeles,,,0
+2435993,2014,,11th & Fargo,,36.356433,-119.655184,1422,,0,,America/Los_Angeles,,,0
+2435926,2146,,Hanford Armona & 12th,,36.3134,-119.672504,1422,,0,,America/Los_Angeles,,,0
+2435988,2021,,7th & Douty,,36.326658,-119.644942,1422,,0,,America/Los_Angeles,,,0
+2436070,2004,,Douty @ Library,,36.329497,-119.645938,1422,,0,,America/Los_Angeles,,,0
+2436055,2065,,Lacey @ Smart & Final,,36.32811,-119.633646,1422,,0,,America/Los_Angeles,,,0
+2439178,,,6th & Redington,,36.325054504212,-119.64909314613,1422,,0,,America/Los_Angeles,,,0
+2436072,2154,,11th across Cost Less,,36.323412,-119.654986,1422,,0,,America/Los_Angeles,,,0
+2435884,4042,,Greenfield & Pleasant,,36.336416,-119.670969,1422,,0,,America/Los_Angeles,,,0
+2435999,1097,,Fresno @ Shaw,,36.807632,-119.781267,1421,,0,,America/Los_Angeles,,,0
+2435914,2168,,Shaw @ Home Garden Health Center,,36.299898,-119.631319,1422,,0,,America/Los_Angeles,,,0
+2436130,2010,,Douty & Cortner,,36.352136,-119.645947,1422,,0,,America/Los_Angeles,,,0
+2436137,2131,,Front @ Club Armona,,36.315555,-119.709865,1422,,0,,America/Los_Angeles,,,0
+2436028,1052,,Substance Abuse Prison Tower 5 Lot,,36.051517,-119.552564,1421,,0,,America/Los_Angeles,,,0
+2435924,2148,,Hanford Armona & 11 1/2,,36.31338,-119.663487,1422,,0,,America/Los_Angeles,,,0
+2435950,2102,,Franklin @ Pedestrian Bridge,,36.263049,-119.902175,1422,,0,,America/Los_Angeles,,,0
+2436103,1030,,Empire & Main,,36.189973,-119.820617,1421,,0,,America/Los_Angeles,,,0
+2435929,2136,,Lacey @ Pediatrics,,36.32795,-119.668063,1422,,0,,America/Los_Angeles,,,0
+2436060,2054,,Florinda & Green,,36.334836,-119.640993,1422,,0,,America/Los_Angeles,,,0
+2436003,1089,,De Woody @ Post Office,,36.434451,-119.685505,1421,,0,,America/Los_Angeles,,,0
+2435971,2066,,Lacey & Miller,,36.328117,-119.635246,1422,,0,,America/Los_Angeles,,,0
+2435981,2043,,Douty across High School,,36.345586,-119.646131,1422,,0,,America/Los_Angeles,,,0
+2436074,2142,,Hume & 11th,,36.305637,-119.655413,1422,,0,,America/Los_Angeles,,,0
+2436001,1094,,Community Regional Center,,36.74189,-119.783716,1421,,0,,America/Los_Angeles,,,0
+2436038,2159,,11th & Cameron,,36.33704,-119.655018,1422,,0,,America/Los_Angeles,,,0
+2436099,1035,,Milham @ Housing Authority,,36.01034,-119.962772,1421,,0,,America/Los_Angeles,,,0
+2435935,2126,,Hanford Armona & Cinnamon,,36.313386,-119.769856,1422,,0,,America/Los_Angeles,,,0

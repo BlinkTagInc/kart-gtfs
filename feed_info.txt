@@ -1,2 +1,2 @@
-feed_publisher_url,feed_publisher_name,feed_lang,feed_version,feed_license,feed_contact_email,feed_contact_url,feed_start_date,feed_end_date
-http://www.trilliumtransit.com,"Trillium Solutions, Inc.",en,UTC: 23-Mar-2018 16:07,,support+kcapta-ca-us@trilliumtransit.com,http://support.trilliumtransit.com,20180323,20190101
+feed_publisher_url,feed_publisher_name,feed_lang,feed_version,feed_license,feed_contact_email,feed_contact_url,feed_start_date,feed_end_date,feed_id
+http://www.trilliumtransit.com,"Trillium Solutions, Inc.",en,UTC: 17-Jul-2018 22:34,,support+kcapta-ca-us@trilliumtransit.com,http://support.trilliumtransit.com,20180717,20190101,kcapta-ca-us
