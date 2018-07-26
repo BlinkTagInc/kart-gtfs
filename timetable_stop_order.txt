@@ -713,17 +713,12 @@ timetable_id,stop_id,stop_sequence,stop_name,connected_routes
 33,2436128,1,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
 33,2435902,2,Noble & Akers,15/Visalia
 33,2435901,3,Noble @ Save Mart,15/Visalia
-33,2436018,4,COS Visalia Campus,15/Visalia
-33,2435900,5,Mooney @ Visalia Mall,15/Visalia
-33,2435903,6,Mooney @ Wendy's,15/Visalia
-33,2435911,7,Mooney @ Sequoia Mall,15/Visalia
-33,2435904,8,Court & Caldwell,15/Visalia
-33,2435899,9,Court @ Visalia Imaging,15/Visalia
-33,2435909,10,Visalia Transit Center,15/Visalia
-33,2435906,11,Mineral King @ Kaweah Delta Hospital,15/Visalia
-33,2435898,12,Mineral King @ Marie Callender's,15/Visalia
-33,2435848,13,Mineral King Ave  @ Valley Childrens Clinic,15/Visalia
-33,2436128,14,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+33,2456198,4,Noble & Mooney (COS),15/Visalia
+33,2435909,5,Visalia Transit Center,15/Visalia
+33,2435906,6,Mineral King @ Kaweah Delta Hospital,15/Visalia
+33,2435898,7,Mineral King @ Marie Callender's,15/Visalia
+33,2435848,8,Mineral King Ave  @ Valley Childrens Clinic,15/Visalia
+33,2436128,9,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
 34,2436128,1,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
 34,2435889,2,7th @ Medical Centers,9/Yellow Line
 34,2435888,3,Kings County Court House,9/Yellow Line
