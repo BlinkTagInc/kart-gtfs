@@ -206,8 +206,7 @@ timetable_id,stop_id,stop_sequence,stop_name,connected_routes
 7,2435958,19,Irwin & Douty,4/Brown Line
 7,2436043,20,Douty & Lang,4/Brown Line
 7,2436042,21,Douty & 2nd,4/Brown Line
-7,2435844,22,6th & Irwin,4/Brown Line
-7,2439178,23,6th & Redington,4/Brown Line
+7,2456196,22,5th @ FHCN,4/Brown Line
 7,2436128,24,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
 8,2436128,1,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
 8,2436134,2,6th & Irwin,4/Brown Line
@@ -230,8 +229,7 @@ timetable_id,stop_id,stop_sequence,stop_name,connected_routes
 8,2435958,19,Irwin & Douty,4/Brown Line
 8,2436043,20,Douty & Lang,4/Brown Line
 8,2436042,21,Douty & 2nd,4/Brown Line
-8,2435844,22,6th & Irwin,4/Brown Line
-8,2439178,23,6th & Redington,4/Brown Line
+8,2456196,22,5th @ FHCN,4/Brown Line
 8,2436128,24,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
 10,2435880,1,KART Transit Center,"13/Corcoran, 14/Laton, 17/Fresno"
 10,2436003,2,De Woody @ Post Office,"14/Laton, 17/Fresno"
