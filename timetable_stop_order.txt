@@ -494,7 +494,6 @@ timetable_id,stop_id,stop_sequence,stop_name,connected_routes
 23,2435857,4,Cinnamon & Holly,31/Lemoore - South
 23,2435858,5,Cinnamon & Dogwood,31/Lemoore - South
 23,2435859,6,19 1/2 @ The Grove Apts,31/Lemoore - South
-23,2436107,7,Bush & Belle Haven,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
 23,2436083,8,West Hills College,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
 23,2436106,9,Bush & Belle Haven,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
 23,2435867,10,19th @ Montgomery Apartments,31/Lemoore - South
@@ -513,7 +512,6 @@ timetable_id,stop_id,stop_sequence,stop_name,connected_routes
 24,2435857,4,Cinnamon & Holly,31/Lemoore - South
 24,2435858,5,Cinnamon & Dogwood,31/Lemoore - South
 24,2435859,6,19 1/2 @ The Grove Apts,31/Lemoore - South
-24,2436107,7,Bush & Belle Haven,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
 24,2436083,8,West Hills College,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
 24,2436106,9,Bush & Belle Haven,"12/Avenal, 20/Hanford - Armona - Lemoore, 31/Lemoore - South"
 24,2435867,10,19th @ Montgomery Apartments,31/Lemoore - South
