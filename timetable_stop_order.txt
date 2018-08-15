@@ -691,9 +691,10 @@ timetable_id,stop_id,stop_sequence,stop_name,connected_routes
 31,2436036,11,Lacey & Centennial,"12/Avenal, 14/Laton, 7/Red Line"
 31,2435930,12,Lacey @ Hanford Mall,"12/Avenal, 14/Laton, 7/Red Line"
 31,2435929,13,Lacey @ Cancer Center,"12/Avenal, 14/Laton, 7/Red Line"
-31,2436035,14,Lacey @ Chubby's,"12/Avenal, 14/Laton, 7/Red Line"
-31,2436034,15,Lacey & Greenfield,"12/Avenal, 14/Laton, 7/Red Line"
-31,2436128,16,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+31,2456197,14,Lacey @ Kings Eye Center,"12/Avenal, 14/Laton, 7/Red Line"
+31,2436035,15,Lacey @ Chubby's,"12/Avenal, 14/Laton, 7/Red Line"
+31,2436034,16,Lacey & Greenfield,"12/Avenal, 14/Laton, 7/Red Line"
+31,2436128,17,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
 32,2436128,1,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
 32,2436062,2,11th @ Railroad Tracks,"3/Purple Line, 7/Red Line"
 32,2436038,3,11th & Cameron,7/Red Line
@@ -707,9 +708,10 @@ timetable_id,stop_id,stop_sequence,stop_name,connected_routes
 32,2436036,11,Lacey & Centennial,"12/Avenal, 14/Laton, 7/Red Line"
 32,2435930,12,Lacey @ Hanford Mall,"12/Avenal, 14/Laton, 7/Red Line"
 32,2435929,13,Lacey @ Cancer Center,"12/Avenal, 14/Laton, 7/Red Line"
-32,2436035,14,Lacey @ Chubby's,"12/Avenal, 14/Laton, 7/Red Line"
-32,2436034,15,Lacey & Greenfield,"12/Avenal, 14/Laton, 7/Red Line"
-32,2436128,16,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+32,2456197,14,Lacey @ Kings Eye Center,"12/Avenal, 14/Laton, 7/Red Line"
+32,2436035,15,Lacey @ Chubby's,"12/Avenal, 14/Laton, 7/Red Line"
+32,2436034,16,Lacey & Greenfield,"12/Avenal, 14/Laton, 7/Red Line"
+32,2436128,17,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
 33,2436128,1,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
 33,2435902,2,Noble & Akers,15/Visalia
 33,2435901,3,Noble @ Save Mart,15/Visalia
