@@ -277,10 +277,11 @@ timetable_id,stop_id,stop_sequence,stop_name,connected_routes
 12,2436008,24,11th & Davis,"5/Pink Line, 8/Gray Line"
 12,2436072,25,11th across Cost Less,"20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 5/Pink Line, 8/Gray Line"
 12,2436128,26,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
-13,2436128,1,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
-13,2436133,2,8th @ Family Healthcare Network,1/Green Line
-13,2435996,3,8th @ Old Courthouse,1/Green Line
-13,2436070,4,Douty @ Library,1/Green Line
+13,2436128,0,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+13,2436133,1,8th @ Family Healthcare Network,1/Green Line
+13,2435996,2,8th @ Old Courthouse,1/Green Line
+13,2436070,3,Douty @ Library,1/Green Line
+13,2456195,4,Douty @ Church,1/Green Line
 13,2436069,5,Douty & Ivy,1/Green Line
 13,2436068,6,Douty@ Community Care,1/Green Line
 13,2435995,7,Douty & Malone,1/Green Line
@@ -297,10 +298,11 @@ timetable_id,stop_id,stop_sequence,stop_name,connected_routes
 13,2436063,18,11th @ KCAO,1/Green Line
 13,2435990,19,11th @ Davita Dialysis,1/Green Line
 13,2436128,20,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
-14,2436128,1,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
-14,2436133,2,8th @ Family Healthcare Network,1/Green Line
-14,2435996,3,8th @ Old Courthouse,1/Green Line
-14,2436070,4,Douty @ Library,1/Green Line
+14,2436128,0,KART Transit Center,"12/Avenal, 15/Visalia, 1/Green Line, 20/Hanford - Armona - Lemoore, 21/Lemoore NAS, 2/Orange Line, 3/Purple Line, 4/Brown Line, 5/Pink Line, 6/Blue Line, 7/Red Line, 8/Gray Line, 9/Yellow Line"
+14,2436133,1,8th @ Family Healthcare Network,1/Green Line
+14,2435996,2,8th @ Old Courthouse,1/Green Line
+14,2436070,3,Douty @ Library,1/Green Line
+14,2456195,4,Douty @ Church,1/Green Line
 14,2436069,5,Douty & Ivy,1/Green Line
 14,2436068,6,Douty@ Community Care,1/Green Line
 14,2435995,7,Douty & Malone,1/Green Line
