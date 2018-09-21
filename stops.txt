@@ -91,7 +91,7 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 2436012,2105,,NAS Hospital West End,,36.263702,-119.893827,1422,,0,,America/Los_Angeles,,,0
 2435983,2031,,Fargo @ Rite Aid,,36.357402,-119.638368,1422,,0,,America/Los_Angeles,,,0
 2435956,2095,,D @ Central Valley Health Center,,36.300502,-119.769152,1422,,0,,America/Los_Angeles,,,0
-2435846,4059,,Fresno Kaiser Hospital S,,36.841623,-119.783123,1421,,0,,America/Los_Angeles,,,0
+2435846,4059,,Fresno Kaiser Hospital,,36.841623,-119.783123,1421,,0,,America/Los_Angeles,,,0
 2436095,1039,,General Petroleum @ Elementary School,,36.00819,-119.962198,1421,,0,,America/Los_Angeles,,,0
 2436102,1032,,Main @ Post Office,,36.18966,-119.822825,1421,,0,,America/Los_Angeles,,,0
 2436040,2158,,7th & 11th,,36.325119,-119.656397,1422,,0,,America/Los_Angeles,,,0
