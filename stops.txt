@@ -198,7 +198,7 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 2435913,2170,,11th & Bonneyview,,36.302101,-119.654723,1422,,0,,America/Los_Angeles,,,0
 2456206,,,Hanger 1,,36.3294303449941,-119.950430903516,,,0,,America/Los_Angeles,,,0
 2436054,2069,,7th & Douty,,36.326797,-119.645031,1422,,0,,America/Los_Angeles,,,0
-2435901,4022,,Noble @ Save Mart,,36.326604,-119.330676,1421,,0,,America/Los_Angeles,,,0
+2435901,4022,,Noble & Demaree,,36.326604,-119.330676,1421,,0,,America/Los_Angeles,,,0
 2436076,2176,,11th @ Castle Square,,36.318314,-119.655166,1422,,0,,America/Los_Angeles,,,0
 2435963,2079,,Home & Shaw,,36.304032,-119.631236,1422,,0,,America/Los_Angeles,,,0
 2435920,2156,,7th @ Senior Villa Apartments,,36.325129,-119.664642,1422,,0,,America/Los_Angeles,,,0
