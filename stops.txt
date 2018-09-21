@@ -288,7 +288,6 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 2435988,2021,,7th & Douty,,36.326658,-119.644942,1422,,0,,America/Los_Angeles,,,0
 2436070,2004,,Douty @ Library,,36.329497,-119.645938,1422,,0,,America/Los_Angeles,,,0
 2436055,2065,,Lacey @ Smart & Final,,36.32811,-119.633646,1422,,0,,America/Los_Angeles,,,0
-2439178,,,6th & Redington,,36.325054504212,-119.64909314613,1422,,0,,America/Los_Angeles,,,0
 2436072,2154,,11th across Cost Less,,36.323412,-119.654986,1422,,0,,America/Los_Angeles,,,0
 2435884,4042,,Greenfield & Pleasant,,36.336416,-119.670969,1422,,0,,America/Los_Angeles,,,0
 2435999,1097,,Fresno @ Shaw,,36.807632,-119.781267,1421,,0,,America/Los_Angeles,,,0
