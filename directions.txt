@@ -1,4 +1,4 @@
-route_id,direction_id,Direction
+route_id,direction_id,direction
 10089,,Loop
 10088,,Loop
 10087,,Loop
