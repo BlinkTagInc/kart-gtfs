@@ -18,7 +18,7 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 2436136,1010,,Front @ Club Armona,,36.315743,-119.709624,1422,,0,,America/Los_Angeles,,,0
 2436135,2093,,10th @ Fair Grounds,,36.319783,-119.63709,1422,,0,,America/Los_Angeles,,,0
 2436134,2071,,6th & Irwin,,36.325357,-119.646101,1422,,0,,America/Los_Angeles,,,0
-2436133,2002,,8th @ Family Healthcare Network,,36.32699,-119.650017,1422,,0,,America/Los_Angeles,,,0
+2436133,2002,,8th @ Aria Community Health,,36.32699,-119.650017,1422,,0,,America/Los_Angeles,,,0
 2436132,2024,,10th @ Carwash,,36.330672,-119.636914,1422,,0,,America/Los_Angeles,,,0
 2436131,2008,,Douty @ High School,,36.344129,-119.645914,1422,,0,,America/Los_Angeles,,,0
 2436130,2010,,Douty & Cortner,,36.352136,-119.645947,1422,,0,,America/Los_Angeles,,,0
