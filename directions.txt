@@ -1,7 +1,5 @@
 route_id,direction_id,direction
 10089,,Loop
-10088,,Loop
-10087,,Loop
 10086,,Loop
 10085,1,Southbound
 10085,0,Northbound
