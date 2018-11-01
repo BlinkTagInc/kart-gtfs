@@ -8,8 +8,6 @@ timetable_page_id,timetable_page_label,filename
 20,,
 14,,
 21,,
-30,,
-31,,
 2,,
 5,,
 3,,
