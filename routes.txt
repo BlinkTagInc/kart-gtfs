@@ -7,7 +7,6 @@ agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_
 804,10072,17,,,3,,20909A,FFFFFF,13,,0
 804,10073,20,,,3,,20909A,FFFFFF,14,60,0
 804,10089,21,,,3,,20909A,FFFFFF,15,,0
-804,11174,22,,,3,,,,16,,0
 804,10078,3,,,3,,A2248F,FFFFFF,2,60,0
 804,10079,4,,,3,,826B51,FFFFFF,3,60,0
 804,10080,5,,,3,,ED008D,FFFFFF,4,60,0
