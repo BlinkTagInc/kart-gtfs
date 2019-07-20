@@ -308,3 +308,8 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 2456204,,,Hanger 5,,36.3365349135787,-119.954360956127,,,0,,America/Los_Angeles,,,0
 2456205,,,Hanger 3,,36.3332495933229,-119.952552810252,,,0,,America/Los_Angeles,,,0
 2456206,,,Hanger 1,,36.3294303449941,-119.950430903516,,,0,,America/Los_Angeles,,,0
+2555276,,,10th & Camino Ramon,,36.3095521712061,-119.637024102755,1422,,0,,America/Los_Angeles,,,0
+2555277,,,Lacey @ Aldis,,36.3279540333648,-119.675668145881,1422,,0,,America/Los_Angeles,,,0
+2555279,,,CSATF Tower 1,,36.051673,-119.543235,1421,,0,,America/Los_Angeles,,,0
+2555280,,,Fowler Children's Hospital,,36.625248,-119.679854,1422,,0,,America/Los_Angeles,,,0
+2555670,,,Naval Air Station Entrance,,36.2563912678211,-119.902343622601,,,0,,America/Los_Angeles,,,0
