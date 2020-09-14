@@ -185,7 +185,7 @@ stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,st
 2436027,1031,,Main & Empire,,36.189169,-119.820981,1421,,0,,America/Los_Angeles,,,0
 2436028,1052,,Substance Abuse Prison Tower 5 Lot,,36.051517,-119.552564,1421,,0,,America/Los_Angeles,,,0
 2436029,1051,,Substance Abuse Prison Administration Lot,,36.05183,-119.539614,1421,,0,,America/Los_Angeles,,,0
-2436030,1050,,State Prison Administration Lot,,36.060002,-119.554627,1421,,0,,America/Los_Angeles,,,0
+2436030,1050,,State Prison Administration Lot,,36.0600930691587,-119.553823173716,1421,,0,,America/Los_Angeles,,,0
 2436031,2171,,11th & Hume,,36.30583,-119.654827,1422,,0,,America/Los_Angeles,,,0
 2436032,2169,,Houston & Elvira,,36.298706,-119.639951,1422,,0,,America/Los_Angeles,,,0
 2436033,2167,,Hanford Armona & 10 1/2,,36.313323,-119.645396,1422,,0,,America/Los_Angeles,,,0

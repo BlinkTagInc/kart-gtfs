@@ -1,3 +1,3 @@
 service_id,service_description
-c_17764_b_21947_d_32,Year Round Starting July 12 (Saturday only)
-c_17764_b_21947_d_31,Year Round Starting July 12 (Weekday)
+c_19318_b_25485_d_32,Reduced Service (Saturday only)
+c_19318_b_25485_d_31,Reduced Service (Weekday)

@@ -1,11 +1,11 @@
 service_id,date,holiday_name,exception_type
-c_17764_b_none_d_32,20191231,New Year's Eve,1
-c_17764_b_none_d_32,20191224,Christmas Eve,1
-c_17764_b_none_d_32,20191129,Day after Thanksgiving,1
-c_17764_b_21947_d_31,20200101,New Year's Day,2
-c_17764_b_21947_d_31,20191231,New Year's Eve,2
-c_17764_b_21947_d_31,20191225,Christmas Day,2
-c_17764_b_21947_d_31,20191224,Christmas Eve,2
-c_17764_b_21947_d_31,20191129,Day after Thanksgiving,2
-c_17764_b_21947_d_31,20191128,Thanksgiving Day,2
-c_17764_b_21947_d_31,20190902,Labor Day,2
+c_19318_b_25485_d_32,20200704,Independence Day,2
+c_19318_b_25485_d_31,20210101,New Year's Day,2
+c_19318_b_25485_d_31,20201231,New Year's Eve,2
+c_19318_b_25485_d_31,20201225,Christmas Day,2
+c_19318_b_25485_d_31,20201224,Christmas Eve,2
+c_19318_b_25485_d_31,20201127,Day after Thanksgiving,2
+c_19318_b_25485_d_31,20201126,Thanksgiving Day,2
+c_19318_b_25485_d_31,20201111,Veteran's Day,2
+c_19318_b_25485_d_31,20200907,Labor Day,2
+c_18310_b_none_d_0,20201127,Day after Thanksgiving,1
