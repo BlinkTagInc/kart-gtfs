@@ -1,11 +1,15 @@
-service_id,date,holiday_name,exception_type
-c_19318_b_25485_d_32,20200704,Independence Day,2
-c_19318_b_25485_d_31,20210101,New Year's Day,2
-c_19318_b_25485_d_31,20201231,New Year's Eve,2
-c_19318_b_25485_d_31,20201225,Christmas Day,2
-c_19318_b_25485_d_31,20201224,Christmas Eve,2
-c_19318_b_25485_d_31,20201127,Day after Thanksgiving,2
-c_19318_b_25485_d_31,20201126,Thanksgiving Day,2
-c_19318_b_25485_d_31,20201111,Veteran's Day,2
-c_19318_b_25485_d_31,20200907,Labor Day,2
-c_18310_b_none_d_0,20201127,Day after Thanksgiving,1
+﻿service_id,date,exception_type
+1,20201111,2
+1,20201126,2
+1,20201127,2
+1,20201224,2
+1,20201225,2
+1,20201231,2
+1,20210101,2
+1,20210118,2
+1,20210215,2
+1,20210531,2
+2,20201127,1
+2,20201224,1
+2,20201231,1
+2,20210118,1

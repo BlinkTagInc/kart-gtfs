@@ -1,3 +1,0 @@
-service_id,service_description
-c_19318_b_25485_d_32,Reduced Service (Saturday only)
-c_19318_b_25485_d_31,Reduced Service (Weekday)

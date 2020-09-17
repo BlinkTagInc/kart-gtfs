@@ -1,2 +1,0 @@
-stop_id,stop_city
-2555277,Hanford

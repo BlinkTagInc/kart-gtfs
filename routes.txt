@@ -1,18 +1,17 @@
-agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes,eligibility_restricted,continuous_pickup,continuous_drop_off
-804,10076,1,,,3,,00A751,FFFFFF,0,60,0,1,1
-804,10077,2,,,3,,F58220,FFFFFF,1,60,0,1,1
-804,10086,13,,,3,,20909A,FFFFFF,10,,0,1,1
-804,10075,14,,,3,,20909A,FFFFFF,11,,0,1,1
-804,10074,15,,,3,,20909A,FFFFFF,12,,0,1,1
-804,10072,17,,,3,,20909A,FFFFFF,13,,0,1,1
-804,10073,20,,,3,,20909A,FFFFFF,14,60,0,1,1
-804,10089,21,,,3,,20909A,FFFFFF,15,,0,1,1
-804,11174,22,,,3,,,,16,,0,1,1
-804,10078,3,,,3,,A2248F,FFFFFF,2,60,0,1,1
-804,10079,4,,,3,,826B51,FFFFFF,3,60,0,1,1
-804,10080,5,,,3,,ED008D,FFFFFF,4,60,0,1,1
-804,10081,6,,,3,,2E3093,FFFFFF,5,30,0,1,1
-804,10082,7,,,3,,ED1D24,FFFFFF,6,60,0,1,1
-804,10083,8,,,3,,808284,FFFFFF,7,60,0,1,1
-804,10084,9,,,3,,F0E50A,000000,8,60,0,1,1
-804,10085,12,,,3,,F58220,FFFFFF,9,,0,1,1
+﻿route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+"1",1,"1","Green Line",3,00A751,FFFFFF
+"2",1,"2","Orange Line",3,F58220,FFFFFF
+"3",1,"3","Purple Line",3,A2248F,FFFFFF
+"4",1,"4","Brown Line",3,826B51,FFFFFF
+"5",1,"5","Pink Line",3,ED008D,FFFFFF
+"6",1,"6","Blue Line",3,2E3093,FFFFFF
+"7",1,"7","Red Line",3,ED1D24,FFFFFF
+"8",1,"8","Gray Line",3,808284,FFFFFF
+"9",1,"9","Yellow Line",3,F0E50A,FFFFFF
+"12",1,"12","Avenal",3,F58220,FFFFFF
+"13",1,"13","Corcoran",3,20909A,FFFFFF
+"14",1,"14","Laton",3,20909A,FFFFFF
+"15",1,"15","Visalia",3,20909A,FFFFFF
+"17",1,"17","Fresno",3,20909A,FFFFFF
+"20",1,"20","Lemoore",3,20909A,FFFFFF
+"21",1,"21","Lemoore NAS",3,20909A,FFFFFF
