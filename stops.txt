@@ -1,229 +1,223 @@
-﻿stop_id,stop_code,stop_name,stop_lat,stop_lon,zone_id
-22,2143,"Hume & Echo Lane",36.305654,-119.660257,
-23,2144,"Hume & Butternut",36.305650,-119.662909,
-40,2149,"Hanford Armona Road & Leslie Lane",36.313358,-119.657141,
-50,2131,"Front across Club Armona",36.315555,-119.709865,
-51,1010,"Front @ Club Armona",36.315743,-119.709624,
-59,2071,"6th & Irwin",36.325357,-119.646101,
-65,2002,"8th @ Aria Community Health",36.326990,-119.650017,
-76,2024,"10th @ Carwash",36.330672,-119.636914,
-87,2008,"Douty @ Hanford High School",36.344129,-119.645914,
-92,2010,"Douty & Cortner",36.352136,-119.645947,
-95,2040,"Douty & Fargo",36.356971,-119.646148,
-100,1000,"KART Transfer Center",36.326104,-119.652649,
-104,1048,"Skyline & Union",36.006729,-120.123837,
-105,1042,"San Joaquin & Union",36.007173,-120.123958,
-109,1002,"Lacey @ Carl's Jr.",36.328169,-119.657373,
-110,1003,"Lacey @ Government Center",36.328173,-119.663520,
-111,1004,"Lacey & Mall Drive",36.328171,-119.668850,
-112,1005,"Lacey @ Centennial Plaza",36.328177,-119.674125,
-113,1006,"Lacey @ Heritage Park Senior Center",36.328177,-119.678532,
-114,1007,"Centennial @ Walmart",36.322797,-119.675269,
-115,1008,"14th @ Armona Fire Station",36.309788,-119.708992,
-116,1009,"14th @ Armona Senior Center",36.314244,-119.708926,
-118,1012,"Hanford Armona Road & 16th Westbound",36.313532,-119.745318,
-119,1013,"Hanford Armona Road across Westberry Apartments",36.313584,-119.765475,
-122,1014,"Hanford Armona Road & Belinda",36.313579,-119.770747,
-123,1016,"Hanford Armona Road @ Pioneer Square",36.313545,-119.778846,
-124,1017,"18th @ Pizza Hut",36.312080,-119.780924,
-125,1018,"18th & D Street",36.302035,-119.780902,
-126,1019,"Bush & Follett",36.298365,-119.782952,
-127,1020,"Bush @ City Park",36.298357,-119.785476,
-128,1021,"Bush & Olive",36.298364,-119.791068,
-136,1026,"1st & Railroad",36.193062,-119.824203,
-137,1028,"1st & Cross",36.193058,-119.822170,
-138,1030,"Empire & Main",36.189973,-119.820617,
-139,1032,"Main @ Post Office",36.189660,-119.822825,
-140,1033,"Main @ Grain Mill",36.189488,-119.825729,
-141,1041,"Milham & Becky Pease",36.010322,-119.960379,
-142,1035,"Milham @ Housing Authority",36.010340,-119.962772,
-143,1036,"3rd & Milham",36.010079,-119.965363,
-144,1037,"3rd & General Petroleum",36.008315,-119.965386,
-145,1038,"General Petroleum & 5th",36.008199,-119.964405,
-146,1039,"General Petroleum @ Elementary School",36.008190,-119.962198,
-148,1040,"Becky Pease & Standard Oil",36.008854,-119.960156,
-151,1043,"San Joaquin & 5th",36.007207,-120.131158,
-152,1044,"San Joaquin & 2nd",36.007290,-120.136069,
-153,1045,"San Joaquin & Thurston",36.007417,-120.145160,
-154,1046,"Skyline @  Circle K",36.002941,-120.131595,
-155,1047,"Skyline @ State Supermarket",36.004660,-120.128068,
-156,1034,"Main @ Grain Mill",36.189360,-119.824708,
-159,1029,"1st & Empire",36.193149,-119.820906,
-160,1027,"1st & Railroad",36.193153,-119.824047,
-162,1200,"19th & Bush",36.298431,-119.798735,
-163,2116,"19th @ Lemoore Soccer Complex",36.304244,-119.798677,
-171,2129,"Hanford Armona Road & 15th Eastbound",36.313446,-119.726402,
-174,2133,"Centennial @ Target",36.323029,-119.676086,
-184,2028,"10th & Grangeville",36.343200,-119.636844,
-187,2041,"Douty & Cortner",36.352074,-119.646153,
-191,2046,"Douty & 11th Street",36.331207,-119.646123,
-196,2132,"14th & Hanford Armona Road",36.313312,-119.709109,
-200,2176,"11th @ Castle Square",36.318314,-119.655166,
-201,2139,"11th & Washington",36.315796,-119.655146,
-204,2142,"Hume & 11th",36.305637,-119.655413,
-205,2145,"12th & Freestone",36.309626,-119.672823,
-211,2154,"11th across Cost Less",36.323412,-119.654986,
-230,2004,"Douty @ Library",36.329497,-119.645938,
-231,2005,"Douty & Ivy",36.332040,-119.645950,
-232,2006,"Douty@ Community Care",36.335902,-119.645945,
-234,2009,"Douty & Leland Way",36.349669,-119.645943,
-235,2012,"Aspen & Fargo",36.357673,-119.650973,
-236,2013,"Northstar @ Remington",36.360061,-119.654201,
-239,2017,"11th & Neville",36.340664,-119.655239,
-240,2018,"11th @ KCAO",36.336501,-119.655255,
-242,2049,"11th @ Railroad Tracks",36.331179,-119.655017,
-247,2053,"Florinda & Harris",36.334840,-119.644723,
-248,2054,"Florinda & Green",36.334836,-119.640993,
-249,2056,"Florinda & Whitney Drive",36.334997,-119.631167,
-250,2057,"Lassen Drive & Florinda",36.335585,-119.627406,
-251,2058,"Lassen Drive & Fernot Way",36.338019,-119.626877,
-254,2061,"9 1/4 @ View Road Apartments",36.330847,-119.623548,
-258,2065,"Lacey @ Smart & Final",36.328110,-119.633646,
-263,2070,"7th & Redington",36.326293,-119.648169,
-273,2025,"10th & Myrtle",36.332670,-119.636855,
-274,2026,"10th @ Fraternal Hall",36.335814,-119.636816,
-276,2027,"10th & Malone",36.339222,-119.636836,
-279,2044,"Douty & Malone",36.339964,-119.646119,
-280,2047,"Douty @ Civic Center",36.328669,-119.646124,
-286,2080,"6th & Eastview Drive",36.303208,-119.628512,
-290,2084,"10th & Home",36.304637,-119.636870,
-292,2086,"Hanford Armona Road & Harris",36.313479,-119.642847,
-293,2087,"Hanford Armona Road & Irwin",36.313487,-119.645253,
-295,2089,"Douty & Lang",36.319160,-119.644195,
-296,2090,"Douty & 2nd",36.321773,-119.644446,
-299,2155,"7th @ Adventist Hospital",36.325459,-119.668065,
-302,2158,"7th & 11th",36.325119,-119.656397,
-304,2050,"Florinda @ Woodrow Wilson School",36.334841,-119.653065,
-305,2159,"11th & Cameron",36.337040,-119.655018,
-306,2160,"Grangeville & 11th",36.342752,-119.656533,
-316,2137,"Lacey @ Chubby's",36.327951,-119.662602,
-317,2138,"Lacey & Greenfield",36.327941,-119.658400,
-320,2167,"Hanford Armona Road & 10 1/2 Avenue",36.313323,-119.645396,
-321,2169,"Houston & Elvira",36.298706,-119.639951,
-324,2171,"11th & Hume",36.305830,-119.654827,
-329,1050,"State Prison Administration Lot",36.060157,-119.554015,
-330,1051,"Substance Abuse Prison Administration Lot",36.051568,-119.540718,
-331,1052,"Substance Abuse Prison Tower 5 Lot",36.051517,-119.552564,
-332,1031,"Main & Empire",36.189169,-119.820981,
-333,1202,"14th & Highway 198",36.308730,-119.709268,
-377,1072,"Amtrak",36.099230,-119.557646,
-380,4001,"Amtrak",36.098290,-119.557587,
-386,1086,"Paloma & Renn",36.433066,-119.693051,
-389,1084,"Latonia & Gonser",36.432712,-119.687384,
-390,1081,"2nd & Excelsior",36.401249,-119.719712,
-391,1082,"Johnson & 1st",36.402142,-119.718831,
-393,1083,"1st & Excelsior",36.401302,-119.718464,
-405,1098,"Fresno & Shaw Southbound",36.807488,-119.781559,
-409,1090,"De Woody across Post Office",36.434580,-119.685553,
-410,2106,"Fleet & Family Support Center",36.262771,-119.887539,
-414,2101,"Navy Exchange Center",36.260350,-119.911178,
-418,2105,"NAS Hospital West End",36.263702,-119.893827,
-419,2104,"NAS Hospital East End",36.263738,-119.892268,
-420,2103,"Franklin @ McDonalds",36.263096,-119.900048,
-428,2175,"11th @ Cost Less",36.322375,-119.655290,
-429,2177,"11th & Davis",36.318224,-119.654885,
-431,1211,"Hanford Armona Road & Bennigton",36.313382,-119.788357,
-433,1085,"Dennis & Mt Whitney",36.431397,-119.693594,
-434,1087,"Murphy & Fatima",36.434605,-119.691519,
-435,1088,"Murphy & Gonser",36.434602,-119.688635,
-436,1089,"De Woody @ Post Office",36.434451,-119.685505,
-438,1093,"Fresno Fulton Mall",36.733655,-119.792982,
-439,1094,"Community Regional Center Northbound",36.741890,-119.783716,
-440,1095,"Fresno Veteran's Hospital",36.772629,-119.781453,
-442,1097,"Fresno & Shaw Northbound",36.807632,-119.781267,
-444,2000,"Valley Children's Hospital",36.885069,-119.799995,
-445,2001,"Community Regional Center Southbound",36.741574,-119.784559,
-447,2007,"Douty & Malone",36.339343,-119.645955,
-448,2011,"Fargo & Carter Way",36.357329,-119.647512,
-449,2014,"11th & Fargo @ Church",36.356433,-119.655184,
-450,2015,"11th & Cortner",36.351433,-119.655172,
-451,2016,"11th & Jana Way",36.344979,-119.655185,
-452,2019,"11th @ Davita Dialysis",36.330648,-119.655288,
-454,2021,"7th & Douty",36.326658,-119.644942,
-455,2022,"7th & Brown",36.327078,-119.642180,
-456,2023,"7th & East",36.327621,-119.638679,
-457,2029,"10th & Leland Way",36.350301,-119.636904,
-458,2030,"10th & Birch",36.356115,-119.636871,
-459,2031,"Fargo @ Rite Aid",36.357402,-119.638368,
-461,2043,"Douty across Hanford High",36.345586,-119.646131,
-462,2045,"Douty across St. Brigid Church",36.335173,-119.646121,
-463,2048,"8th & Irwin",36.327436,-119.648099,
-464,2051,"Florinda & Kaweah",36.334837,-119.650728,
-466,2055,"Florinda & 10th",36.334809,-119.636214,
-467,2059,"9 1/4 @ King Garden Apartments",36.338668,-119.623570,
-468,2060,"9 1/4 & Elm",36.334204,-119.623537,
-473,2067,"7th @ United Market",36.327596,-119.639859,
-474,2068,"7th & Brown",36.327095,-119.643107,
-475,2072,"3rd & White",36.323348,-119.638849,
-476,2073,"3rd & Douty",36.322532,-119.644155,
-479,2078,"Home & 2nd Place",36.304083,-119.633618,
-480,2079,"Home & Shaw",36.304032,-119.631236,
-481,2081,"Garden Drive & Shaw",36.302678,-119.630196,
-482,2082,"Garden Drive & 2nd Place",36.302361,-119.633799,
-483,2083,"Garden Drive & 10th",36.302418,-119.636310,
-484,2085,"Hanford Armona Road @ Kings Rehab",36.313463,-119.638408,
-485,2088,"Irwin & Douty",36.316466,-119.645846,
-489,2095,"D Street @ Central Valley Health Center",36.300502,-119.769152,
-490,2096,"D Street @ Best Western",36.300301,-119.769177,
-491,2097,"E Street @ Lemoore Depot",36.303002,-119.784944,
-493,2099,"Naval Air Station Exit",36.255740,-119.902288,
-496,2102,"Franklin @ Pedestrian Bridge",36.263049,-119.902175,
-497,2112,"Franklin @ Spuds",36.263123,-119.896872,
-498,2113,"Franklin @ Spuds",36.263266,-119.897050,
-499,2107,"Franklin @ Pedestrian Bridge",36.263225,-119.902194,
-502,2115,"19th & Cypress",36.299940,-119.798683,
-503,2117,"Hanford Armona Road @ Goodwill",36.313334,-119.783354,
-504,2118,"Cinnamon & 18th",36.307121,-119.781911,
-505,2120,"Follett @ Lemoore Depot",36.303314,-119.783723,
-506,2121,"Liberty & Cinnamon",36.306264,-119.794185,
-507,2122,"Liberty & Fallenleaf",36.308644,-119.794177,
-508,2123,"Liberty & Hanford Armona Road",36.313000,-119.794174,
-509,2124,"Hanford Armona Road @ Country Club Apartments",36.313370,-119.778202,
-510,2125,"Hanford Armona Road across Park Place Apartments",36.313378,-119.774950,
-511,2126,"Hanford Armona Road & Cinnamon",36.313386,-119.769856,
-512,2127,"Hanford Armona Road @ Westberry Apartments",36.313359,-119.765368,
-513,2128,"Hanford Armona Road & 16th Eastbound",36.313424,-119.744308,
-514,1011,"Hanford Armona Road & 15th Westbound",36.313561,-119.726380,
-515,2130,"Front & Hanford Armona Road",36.314033,-119.717869,
-516,2135,"Lacey @ Hanford Mall",36.327950,-119.671654,
-518,2140,"11th @ DMV",36.312878,-119.655148,
-519,2141,"11th & Marconi",36.307938,-119.655110,
-520,2146,"Hanford Armona Road & 12th",36.313400,-119.672504,
-521,2147,"Hanford Armona Road @ Centennial Park",36.313388,-119.666454,
-522,2148,"Hanford Armona Road & 11 1/2 Avenue",36.313380,-119.663487,
-524,2152,"11th @ Amberwood Apartments",36.310250,-119.654863,
-525,2153,"11th & Hanford Armona Road",36.313911,-119.654881,
-526,2156,"7th @ Senior Villa Apartments",36.325129,-119.664642,
-527,2157,"7th & Reagan Way",36.325134,-119.661315,
-528,2161,"Grangeville & Rodgers",36.342748,-119.660382,
-529,2163,"Grangeville & Fitzgerald",36.342728,-119.669985,
-530,2164,"Grangeville & Vintage Avenue",36.342738,-119.678611,
-531,2166,"Hanford Armona Road @ Railroad",36.313342,-119.650859,
-532,2168,"Shaw @ Home Garden Health Center",36.299898,-119.631319,
-533,2170,"11th & Bonneyview Lane",36.302101,-119.654723,
-534,2172,"11th @ KCAO Day Care",36.307657,-119.654841,
-536,1015,"Hanford Armona Road @  Park Place Apartments",36.313567,-119.774752,
-540,1077,"Visalia Transit Center",36.331861,-119.288234,
-541,2119,"Follett @ Cinnamon Villa Apartments",36.305856,-119.784415,
-542,2162,"Grangeville & University",36.342724,-119.665928,
-559,4027,"Mineral King @ Kaweah Delta Hospital",36.327491,-119.294484,
-560,4000,"Bush @ South Valley Church",36.298348,-119.797086,
-577,1212,"Hanford Armona Rd @ Kings Terrace Apartments",36.313353,-119.638900,
-588,4031,"Centennial & West Merritt",36.335458,-119.680658,
-589,4032,"Centennial & Charlie Chambers",36.329885,-119.679318,
-590,4033,"9 1/4  & Hawthorn ",36.329258,-119.623507,
-594,4037,"7th @ Medical Centers",36.325278,-119.657726,
-595,4038,"Kings County Court House",36.332873,-119.671444,
-597,4039,"12th @ Centennial Plaza",36.329389,-119.673079,
-598,4040,"Lacey @ Four Seasons Mobile Park",36.328139,-119.687701,
-599,4041,"COS & Sierra Pacific High School",36.333358,-119.690853,
-646,4058,"Fresno Kaiser Hospital Northbound",36.842340,-119.783139,
-647,4059,"Fresno Kaiser Hospital Southbound",36.841623,-119.783123,
-649,4061,"5th @ FHCN",36.324487,-119.647044,
-653,4063,"Lacey @ Kings Eye Center",36.327946,-119.666163,
-656,4065,"Noble & Mooney Blvd (COS)",36.326488,-119.313461,
-658,4073,"Selma Kaiser - North",36.573035,-119.628589,
-659,4074,"Selma Kaiser - South",36.571912,-119.628915,
-667,4087,"10th Ave & Camino Ramon",36.307007,-119.637061,
-669,4089,"Fowler @ Valley Childrens",36.625658,-119.680363,
-670,4088,"Lacey @ Aldi's",36.327949,-119.674634,
+﻿stop_id,stop_code,stop_name,stop_lat,stop_lon
+22,"2143","Hume & Echo Lane",36.305654,-119.660257
+23,"2144","Hume & Butternut",36.305650,-119.662909
+40,"2149","Hanford Armona Road & Leslie Lane",36.313358,-119.657141
+50,"2131","Front across Club Armona",36.315555,-119.709865
+51,"1010","Front @ Club Armona",36.315743,-119.709624
+59,"2071","6th & Irwin",36.325357,-119.646101
+65,"2002","8th @ Aria Community Health",36.326990,-119.650017
+76,"2024","10th @ Carwash",36.330672,-119.636914
+87,"2008","Douty @ Hanford High School",36.344129,-119.645914
+92,"2010","Douty & Cortner",36.352136,-119.645947
+95,"2040","Douty & Fargo",36.356971,-119.646148
+100,"1000","KART Transfer Center",36.326104,-119.652649
+104,"1048","Skyline & Union",36.006729,-120.123837
+105,"1042","San Joaquin & Union",36.007173,-120.123958
+109,"1002","Lacey @ Carl's Jr.",36.328169,-119.657373
+110,"1003","Lacey @ Government Center",36.328173,-119.663520
+111,"1004","Lacey & Mall Drive",36.328171,-119.668850
+112,"1005","Lacey @ Centennial Plaza",36.328177,-119.674125
+113,"1006","Lacey @ Heritage Park Senior Center",36.328177,-119.678532
+114,"1007","Centennial @ Walmart",36.322797,-119.675269
+115,"1008","14th @ Armona Fire Station",36.309788,-119.708992
+116,"1009","14th @ Armona Senior Center",36.314244,-119.708926
+118,"1012","Hanford Armona Road & 16th Westbound",36.313532,-119.745318
+119,"1013","Hanford Armona Road across Westberry Apartments",36.313584,-119.765475
+122,"1014","Hanford Armona Road & Belinda",36.313579,-119.770747
+123,"1016","Hanford Armona Road @ Pioneer Square",36.313545,-119.778846
+124,"1017","18th @ Pizza Hut",36.312080,-119.780924
+125,"1018","18th & D Street",36.302035,-119.780902
+126,"1019","Bush & Follett",36.298365,-119.782952
+127,"1020","Bush @ City Park",36.298357,-119.785476
+128,"1021","Bush & Olive",36.298364,-119.791068
+130,"1022","Bush @ Kings River Apartments",36.298363,-119.805760
+131,"1023","Bush & Belle Haven",36.296329,-119.812284
+135,"1025","Bush & Belle Haven",36.296144,-119.812224
+136,"1026","1st & Railroad",36.193062,-119.824203
+137,"1028","1st & Cross",36.193058,-119.822170
+138,"1030","Empire & Main",36.189973,-119.820617
+139,"1032","Main @ Post Office",36.189660,-119.822825
+140,"1033","Main @ Grain Mill",36.189488,-119.825729
+141,"1041","Milham & Becky Pease",36.010322,-119.960379
+142,"1035","Milham @ Housing Authority",36.010340,-119.962772
+143,"1036","3rd & Milham",36.010079,-119.965363
+144,"1037","3rd & General Petroleum",36.008315,-119.965386
+145,"1038","General Petroleum & 5th",36.008199,-119.964405
+146,"1039","General Petroleum @ Elementary School",36.008190,-119.962198
+148,"1040","Becky Pease & Standard Oil",36.008854,-119.960156
+151,"1043","San Joaquin & 5th",36.007207,-120.131158
+152,"1044","San Joaquin & 2nd",36.007290,-120.136069
+153,"1045","San Joaquin & Thurston",36.007417,-120.145160
+154,"1046","Skyline @  Circle K",36.002941,-120.131595
+155,"1047","Skyline @ State Supermarket",36.004660,-120.128068
+156,"1034","Main @ Grain Mill",36.189360,-119.824708
+159,"1029","1st & Empire",36.193149,-119.820906
+160,"1027","1st & Railroad",36.193153,-119.824047
+162,"1200","19th & Bush",36.298431,-119.798735
+163,"2116","19th @ Lemoore Soccer Complex",36.304244,-119.798677
+169,"1024","West Hills College",36.292255,-119.823125
+171,"2129","Hanford Armona Road & 15th Eastbound",36.313446,-119.726402
+174,"2133","Centennial @ Target",36.323029,-119.676086
+184,"2028","10th & Grangeville",36.343200,-119.636844
+187,"2041","Douty & Cortner",36.352074,-119.646153
+191,"2046","Douty & 11th Street",36.331207,-119.646123
+196,"2132","14th & Hanford Armona Road",36.313312,-119.709109
+200,"2176","11th @ Castle Square",36.318314,-119.655166
+201,"2139","11th & Washington",36.315796,-119.655146
+204,"2142","Hume & 11th",36.305637,-119.655413
+205,"2145","12th & Freestone",36.309626,-119.672823
+211,"2154","11th across Cost Less",36.323412,-119.654986
+213,"2151","Jones @ Amberwood Apartments",36.310624,-119.652807
+230,"2004","Douty @ Library",36.329497,-119.645938
+231,"2005","Douty & Ivy",36.332040,-119.645950
+232,"2006","Douty@ Community Care",36.335902,-119.645945
+234,"2009","Douty & Leland Way",36.349669,-119.645943
+235,"2012","Aspen & Fargo",36.357673,-119.650973
+236,"2013","Northstar @ Remington",36.360061,-119.654201
+239,"2017","11th & Neville",36.340664,-119.655239
+240,"2018","11th @ KCAO",36.336501,-119.655255
+242,"2049","11th @ Railroad Tracks",36.331179,-119.655017
+247,"2053","Florinda & Harris",36.334840,-119.644723
+248,"2054","Florinda & Green",36.334836,-119.640993
+249,"2056","Florinda & Whitney Drive",36.334997,-119.631167
+250,"2057","Lassen Drive & Florinda",36.335585,-119.627406
+251,"2058","Lassen Drive & Fernot Way",36.338019,-119.626877
+254,"2061","9 1/4 @ View Road Apartments",36.330847,-119.623548
+258,"2065","Lacey @ Smart & Final",36.328110,-119.633646
+263,"2070","7th & Redington",36.326293,-119.648169
+273,"2025","10th & Myrtle",36.332670,-119.636855
+274,"2026","10th @ Fraternal Hall",36.335814,-119.636816
+276,"2027","10th & Malone",36.339222,-119.636836
+279,"2044","Douty & Malone",36.339964,-119.646119
+280,"2047","Douty @ Civic Center",36.328669,-119.646124
+286,"2080","6th & Eastview Drive",36.303208,-119.628512
+290,"2084","10th & Home",36.304637,-119.636870
+292,"2086","Hanford Armona Road & Harris",36.313479,-119.642847
+293,"2087","Hanford Armona Road & Irwin",36.313487,-119.645253
+295,"2089","Douty & Lang",36.319160,-119.644195
+296,"2090","Douty & 2nd",36.321773,-119.644446
+299,"2155","7th @ Adventist Hospital",36.325459,-119.668065
+302,"2158","7th & 11th",36.325119,-119.656397
+304,"2050","Florinda @ Woodrow Wilson School",36.334841,-119.653065
+305,"2159","11th & Cameron",36.337040,-119.655018
+306,"2160","Grangeville & 11th",36.342752,-119.656533
+313,"2134","Lacey & Centennial",36.327945,-119.678907
+316,"2137","Lacey @ Chubby's",36.327951,-119.662602
+317,"2138","Lacey & Greenfield",36.327941,-119.658400
+324,"2171","11th & Hume",36.305830,-119.654827
+329,"1050","State Prison Administration Lot",36.060157,-119.554015
+330,"1051","Substance Abuse Prison Administration Lot",36.051568,-119.540718
+331,"1052","Substance Abuse Prison Tower 5 Lot",36.051517,-119.552564
+332,"1031","Main & Empire",36.189169,-119.820981
+377,"1072","Amtrak",36.099230,-119.557646
+380,"4001","Amtrak",36.098290,-119.557587
+386,"1086","Paloma & Renn",36.433066,-119.693051
+389,"1084","Latonia & Gonser",36.432712,-119.687384
+390,"1081","2nd & Excelsior",36.401249,-119.719712
+391,"1082","Johnson & 1st",36.402142,-119.718831
+393,"1083","1st & Excelsior",36.401302,-119.718464
+414,"2101","Navy Exchange Center",36.260350,-119.911178
+418,"2105","NAS Hospital West End",36.263702,-119.893827
+420,"2103","Franklin @ McDonalds",36.263096,-119.900048
+428,"2175","11th @ Cost Less",36.322375,-119.655290
+429,"2177","11th & Davis",36.318224,-119.654885
+431,"1211","Hanford Armona Road & Bennigton",36.313382,-119.788357
+433,"1085","Dennis & Mt Whitney",36.431397,-119.693594
+434,"1087","Murphy & Fatima",36.434605,-119.691519
+435,"1088","Murphy & Gonser",36.434602,-119.688635
+436,"1089","De Woody @ Post Office",36.434451,-119.685505
+438,"1093","Fresno Fulton Mall",36.733655,-119.792982
+439,"1094","Community Regional Center Northbound",36.741890,-119.783716
+440,"1095","Fresno Veteran's Hospital",36.772629,-119.781453
+445,"2001","Community Regional Center Southbound",36.741574,-119.784559
+447,"2007","Douty & Malone",36.339343,-119.645955
+448,"2011","Fargo & Carter Way",36.357329,-119.647512
+449,"2014","11th & Fargo @ Church",36.356433,-119.655184
+450,"2015","11th & Cortner",36.351433,-119.655172
+451,"2016","11th & Jana Way",36.344979,-119.655185
+452,"2019","11th @ Davita Dialysis",36.330648,-119.655288
+454,"2021","7th & Douty",36.326658,-119.644942
+455,"2022","7th & Brown",36.327078,-119.642180
+456,"2023","7th & East",36.327621,-119.638679
+457,"2029","10th & Leland Way",36.350301,-119.636904
+458,"2030","10th & Birch",36.356115,-119.636871
+459,"2031","Fargo @ Rite Aid",36.357402,-119.638368
+461,"2043","Douty across Hanford High",36.345586,-119.646131
+462,"2045","Douty across St. Brigid Church",36.335173,-119.646121
+463,"2048","8th & Irwin",36.327436,-119.648099
+464,"2051","Florinda & Kaweah",36.334837,-119.650728
+466,"2055","Florinda & 10th",36.334809,-119.636214
+467,"2059","9 1/4 @ King Garden Apartments",36.338668,-119.623570
+468,"2060","9 1/4 & Elm",36.334204,-119.623537
+473,"2067","7th @ United Market",36.327596,-119.639859
+475,"2072","3rd & White",36.323348,-119.638849
+476,"2073","3rd & Douty",36.322532,-119.644155
+479,"2078","Home & 2nd Place",36.304083,-119.633618
+480,"2079","Home & Shaw",36.304032,-119.631236
+481,"2081","Garden Drive & Shaw",36.302678,-119.630196
+482,"2082","Garden Drive & 2nd Place",36.302361,-119.633799
+483,"2083","Garden Drive & 10th",36.302418,-119.636310
+484,"2085","Hanford Armona Road @ Kings Rehab",36.313463,-119.638408
+485,"2088","Irwin & Douty",36.316466,-119.645846
+491,"2097","E Street @ Lemoore Depot",36.303002,-119.784944
+493,"2099","Naval Air Station Exit",36.255740,-119.902288
+496,"2102","Franklin @ Pedestrian Bridge",36.263049,-119.902175
+497,"2112","Franklin @ Spuds",36.263123,-119.896872
+501,"2114","Bush across  Kings River Apartments",36.298202,-119.805538
+502,"2115","19th & Cypress",36.299940,-119.798683
+503,"2117","Hanford Armona Road @ Goodwill",36.313334,-119.783354
+504,"2118","Cinnamon & 18th",36.307121,-119.781911
+505,"2120","Follett @ Lemoore Depot",36.303314,-119.783723
+506,"2121","Liberty & Cinnamon",36.306264,-119.794185
+507,"2122","Liberty & Fallenleaf",36.308644,-119.794177
+508,"2123","Liberty & Hanford Armona Road",36.313000,-119.794174
+509,"2124","Hanford Armona Road @ Country Club Apartments",36.313370,-119.778202
+510,"2125","Hanford Armona Road across Park Place Apartments",36.313378,-119.774950
+511,"2126","Hanford Armona Road & Cinnamon",36.313386,-119.769856
+512,"2127","Hanford Armona Road @ Westberry Apartments",36.313359,-119.765368
+513,"2128","Hanford Armona Road & 16th Eastbound",36.313424,-119.744308
+514,"1011","Hanford Armona Road & 15th Westbound",36.313573,-119.726099
+515,"2130","Front & Hanford Armona Road",36.314033,-119.717869
+516,"2135","Lacey @ Hanford Mall",36.327950,-119.671654
+518,"2140","11th @ DMV",36.312878,-119.655148
+519,"2141","11th & Marconi",36.307938,-119.655110
+520,"2146","Hanford Armona Road & 12th",36.313400,-119.672504
+521,"2147","Hanford Armona Road @ Centennial Park",36.313388,-119.666454
+522,"2148","Hanford Armona Road & 11 1/2 Avenue",36.313380,-119.663487
+524,"2152","11th @ Amberwood Apartments",36.310250,-119.654863
+525,"2153","11th & Hanford Armona Road",36.313911,-119.654881
+526,"2156","7th @ Senior Villa Apartments",36.325129,-119.664642
+527,"2157","7th & Reagan Way",36.325134,-119.661315
+528,"2161","Grangeville & Rodgers",36.342748,-119.660382
+529,"2163","Grangeville & Fitzgerald",36.342728,-119.669985
+530,"2164","Grangeville & Vintage Avenue",36.342738,-119.678611
+532,"2168","Shaw @ Home Garden Health Center",36.299898,-119.631319
+534,"2172","11th @ KCAO Day Care",36.307657,-119.654841
+536,"1015","Hanford Armona Road @  Park Place Apartments",36.313567,-119.774752
+540,"1077","Visalia Transit Center",36.331861,-119.288234
+541,"2119","Follett @ Cinnamon Villa Apartments",36.305856,-119.784415
+542,"2162","Grangeville & University",36.342724,-119.665928
+559,"4027","Mineral King @ Kaweah Delta Hospital",36.327491,-119.294484
+560,"4000","Bush @ South Valley Church",36.298348,-119.797086
+588,"4031","Centennial & West Merritt",36.335458,-119.680658
+589,"4032","Centennial & Charlie Chambers",36.329885,-119.679318
+590,"4033","9 1/4  & Hawthorn",36.329117,-119.623560
+594,"4037","7th @ Medical Centers",36.325278,-119.657726
+595,"4038","Kings County Court House",36.332873,-119.671444
+597,"4039","12th @ Centennial Plaza",36.329389,-119.673079
+598,"4040","Lacey @ Four Seasons Mobile Park",36.328139,-119.687701
+599,"4041","COS & Sierra Pacific High School",36.333358,-119.690853
+628,"1134","Bush @ Lemoore High School",36.298256,-119.778914
+644,"4048","Bush @ Davita Dialysis",36.298190,-119.800718
+649,"4061","5th @ FHCN",36.324487,-119.647044
+653,"4063","Lacey @ Kings Eye Center",36.327946,-119.666163
+656,"4065","Noble & Mooney Blvd (COS)",36.326488,-119.313461
+658,"4073","Selma Kaiser - North",36.573035,-119.628589
+659,"4074","Selma Kaiser - South",36.571912,-119.628915
+667,"4087","10th Ave & Camino Ramon",36.307007,-119.637061
+669,"4089","Fowler @ Valley Childrens",36.625658,-119.680363
+670,"4088","Lacey @ Aldi's",36.327949,-119.674634
+671,"4093","San Joaquin & North A Ave",36.007346,-120.138837
+673,"4094","14th Avenue Across Armona Fire Station",36.309797,-119.709208
+674,"4095","Hume & Monterey",36.305724,-119.667398
+675,"4096","7th & Brown",36.327225,-119.642284

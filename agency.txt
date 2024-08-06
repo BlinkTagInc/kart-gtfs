@@ -1,2 +1,2 @@
-﻿agency_id,agency_name,agency_url,agency_phone,agency_timezone,agency_lang
-1,"Kings Area Rural Transit","http://mykartbus.com/","800-675-8881","America/Los_Angeles","en"
+﻿agency_id,agency_name,agency_url,agency_phone,agency_timezone,agency_lang,agency_fare_url,agency_email
+1,"Kings Area Rural Transit","http://mykartbus.com/","800-675-8881","America/Los_Angeles",en,,

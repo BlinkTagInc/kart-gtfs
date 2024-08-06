@@ -6,7 +6,6 @@
 "5",1,"5","Pink Line",3,ED008D,FFFFFF
 "6",1,"6","Blue Line",3,2E3093,FFFFFF
 "7",1,"7","Red Line",3,ED1D24,FFFFFF
-"8",1,"8","Gray Line",3,808284,FFFFFF
 "9",1,"9","Yellow Line",3,F0E50A,FFFFFF
 "12",1,"12","Avenal",3,F58220,FFFFFF
 "13",1,"13","Corcoran",3,20909A,FFFFFF

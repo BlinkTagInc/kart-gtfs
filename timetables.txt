@@ -1,19 +1,15 @@
 timetable_id,route_id,direction_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday,route_label,service_notes,direction_label,orientation,timetable_page_id,timetable_sequence,include_exceptions
-3,12,0,20200323,20210101,1,1,1,1,1,0,0,Avenal,Year Round (Monday-Friday),Northbound,horizontal,12,2,0
-4,12,1,20200323,20210101,1,1,1,1,1,0,0,Avenal,Year Round (Monday-Friday),Southbound,horizontal,12,1,0
-6,6,0,20200323,20210101,1,1,1,1,1,0,0,Blue Line,Year Round (Monday-Friday),Loop,horizontal,6,1,0
-8,4,1,20200323,20210101,1,1,1,1,1,0,0,Brown Line,Year Round (Monday-Friday),Loop,horizontal,4,1,0
-10,17,0,20200323,20210101,1,1,1,1,1,0,0,Fresno,Year Round (Monday-Friday),Northbound,horizontal,17,1,1
-11,17,1,20200323,20210101,1,1,1,1,1,0,0,Fresno,Year Round (Monday-Friday),Southbound,horizontal,17,2,1
-12,8,1,20200323,20210101,1,1,1,1,1,0,0,Gray Line,Year Round (Monday-Friday),Loop,horizontal,8,1,1
-15,1,0,20200323,20210101,1,1,1,1,1,0,0,Green Line,Year Round (Monday-Friday),Loop,horizontal,1,1,0
-18,20,0,20200323,20210101,1,1,1,1,1,0,0,Hanford - Armona - Lemoore,Year Round (Monday-Friday),Eastbound,horizontal,20,2,0
-19,20,1,20200323,20210101,1,1,1,1,1,0,0,Hanford - Armona - Lemoore,Year Round (Monday-Friday),Westbound,horizontal,20,1,0
-20,14,0,20200323,20210101,1,1,1,1,1,0,0,Laton,Year Round (Monday-Friday),Loop,horizontal,14,1,1
-21,21,1,20200323,20210101,1,1,1,1,1,0,0,Lemoore NAS,Year Round (Monday-Friday),Loop,horizontal,21,1,1
-23,2,0,20200323,20210101,1,1,1,1,1,0,0,Orange Line,Year Round (Monday-Friday),Loop,horizontal,2,1,0
-25,5,1,20200323,20210101,1,1,1,1,1,0,0,Pink Line,Year Round (Monday-Friday),Loop,horizontal,5,1,0
-27,3,1,20200323,20210101,1,1,1,1,1,0,0,Purple Line,Year Round (Monday-Friday),Loop,horizontal,3,1,0
-29,7,0,20200323,20210101,1,1,1,1,1,0,0,Red Line,Year Round (Monday-Friday),Loop,horizontal,7,1,0
-30,15,0,20200323,20210101,1,1,1,1,1,0,0,Visalia,Year Round (Monday-Friday),Loop,horizontal,15,1,1
-32,9,1,20200323,20210101,1,1,1,1,1,0,0,Yellow Line,Year Round (Monday-Friday),Loop,horizontal,9,1,0
+3,12,0,20240704,20251231,1,1,1,1,1,0,0,Avenal,Year Round (Monday-Friday),Loop,horizontal,12,1,0
+6,6,0,20240704,20251231,1,1,1,1,1,0,0,Blue Line,Year Round (Monday-Friday),Loop,horizontal,6,1,0
+8,4,1,20240704,20251231,1,1,1,1,1,0,0,Brown Line,Year Round (Monday-Friday),Loop,horizontal,4,1,0
+10,17,0,20240704,20251231,0,0,1,0,1,0,0,Fresno,Year Round (Monday-Friday),Loop,horizontal,17,1,1
+15,1,0,20240704,20251231,1,1,1,1,1,0,0,Green Line,Year Round (Monday-Friday),Loop,horizontal,1,1,0
+18,20,0,20240704,20251231,1,1,1,1,1,0,0,Hanford - Armona - Lemoore,Year Round (Monday-Friday),Loop,horizontal,20,1,0
+20,14,0,20240704,20251231,1,1,1,1,1,0,0,Laton,Year Round (Monday-Friday),Loop,horizontal,14,1,1
+21,21,0,20240704,20251231,1,1,1,1,1,0,0,Lemoore NAS,Year Round (Monday-Friday),Loop,horizontal,21,1,1
+23,2,0,20240704,20251231,1,1,1,1,1,0,0,Orange Line,Year Round (Monday-Friday),Loop,horizontal,2,1,0
+25,5,1,20240704,20251231,1,1,1,1,1,0,0,Pink Line,Year Round (Monday-Friday),Loop,horizontal,5,1,0
+27,3,1,20240704,20251231,1,1,1,1,1,0,0,Purple Line,Year Round (Monday-Friday),Loop,horizontal,3,1,0
+29,7,0,20240704,20251231,1,1,1,1,1,0,0,Red Line,Year Round (Monday-Friday),Loop,horizontal,7,1,0
+30,15,0,20240704,20251231,1,1,1,1,1,0,0,Visalia,Year Round (Monday-Friday),Loop,horizontal,15,1,1
+32,9,1,20240704,20251231,1,1,1,1,1,0,0,Yellow Line,Year Round (Monday-Friday),Loop,horizontal,9,1,0
